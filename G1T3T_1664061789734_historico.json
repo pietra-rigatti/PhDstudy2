@@ -1,0 +1,428 @@
+[
+	{
+		"view_history": [
+			{
+				"page_index": 0,
+				"viewing_time": 10731
+			}
+		],
+		"rt": 10731,
+		"trial_type": "instructions",
+		"trial_index": 0,
+		"time_elapsed": 10731,
+		"internal_node_id": "0.0-0.0"
+	},
+	{
+		"rt": 23884,
+		"response": {
+			"age": "43"
+		},
+		"trial_type": "survey-text",
+		"trial_index": 1,
+		"time_elapsed": 34723,
+		"internal_node_id": "0.0-1.0"
+	},
+	{
+		"rt": 8154,
+		"response": {
+			"sex": "Masculino"
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 2,
+		"time_elapsed": 42979,
+		"internal_node_id": "0.0-2.0"
+	},
+	{
+		"rt": 43010,
+		"response": {
+			"own_schooling": "Ensino Médio completo"
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 3,
+		"time_elapsed": 86092,
+		"internal_node_id": "0.0-3.0"
+	},
+	{
+		"rt": 11075,
+		"response": {
+			"mother_schooling": "Ensino Médio completo"
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 4,
+		"time_elapsed": 97268,
+		"internal_node_id": "0.0-4.0"
+	},
+	{
+		"rt": 18489,
+		"response": {
+			"father_schooling": "Ensino Superior completo"
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 5,
+		"time_elapsed": 115860,
+		"internal_node_id": "0.0-5.0"
+	},
+	{
+		"rt": 704474,
+		"response": {
+			"language_0": "kriolo",
+			"listening_0": "4 mes",
+			"speaking_0": "1anos",
+			"reading_0": "2 anos",
+			"writing_0": "2 anos",
+			"language_1": "portuguers",
+			"listening_1": "38 anos",
+			"speaking_1": "38 anosos",
+			"reading_1": "38anoss",
+			"writing_1": "38anos",
+			"language_2": "espagnol",
+			"listening_2": "8anos",
+			"speaking_2": "8anos",
+			"reading_2": "8anos",
+			"writing_2": "12anos",
+			"language_3": "frances",
+			"listening_3": "4mes",
+			"speaking_3": "1anos",
+			"reading_3": "2 ansos",
+			"writing_3": "2anos"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 6,
+		"time_elapsed": 820427,
+		"internal_node_id": "0.0-6.0"
+	},
+	{
+		"rt": 380264,
+		"response": {
+			"language_3": "espagnol",
+			"listening_3": "4 anos",
+			"speaking_3": "12 anos",
+			"reading_3": "12 anos",
+			"writing_3": "12",
+			"language_1": "frances",
+			"listening_1": "4anos",
+			"speaking_1": "4anos",
+			"reading_1": "4 anos",
+			"writing_1": "4anos",
+			"language_2": "kriolo",
+			"listening_2": "4anos",
+			"speaking_2": "anos",
+			"reading_2": "4 anos",
+			"writing_2": "4anos"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 7,
+		"time_elapsed": 1200792,
+		"internal_node_id": "0.0-7.0"
+	},
+	{
+		"rt": 9976,
+		"response": {
+			"country_of_origin": "haiti"
+		},
+		"trial_type": "survey-text",
+		"trial_index": 8,
+		"time_elapsed": 1210872,
+		"internal_node_id": "0.0-8.0"
+	},
+	{
+		"rt": 83378,
+		"response": {
+			"country_of_residence": "moro no brasil a 11 anos \n"
+		},
+		"trial_type": "survey-text",
+		"trial_index": 9,
+		"time_elapsed": 1294351,
+		"internal_node_id": "0.0-9.0"
+	},
+	{
+		"rt": 258243,
+		"response": {
+			"country_0": "republica dominicana",
+			"duration_0": "204",
+			"language_0": "espagnol",
+			"frequency_0": "7",
+			"country_1": "",
+			"duration_1": "",
+			"language_1": "",
+			"frequency_1": "",
+			"country_2": "",
+			"duration_2": "",
+			"language_2": "",
+			"frequency_2": "",
+			"country_3": "",
+			"duration_3": "",
+			"language_3": "",
+			"frequency_3": ""
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 10,
+		"time_elapsed": 1552693,
+		"internal_node_id": "0.0-10.0"
+	},
+	{
+		"rt": 221321,
+		"response": {
+			"language_0": "portuguers",
+			"context_0": "2\\3",
+			"language_1": "espagnol",
+			"context_1": "2\\3",
+			"language_2": "",
+			"context_2": "",
+			"language_3": "",
+			"context_3": ""
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 11,
+		"time_elapsed": 1774116,
+		"internal_node_id": "0.0-11.0"
+	},
+	{
+		"rt": 556090,
+		"response": {
+			"language_0": "portugues",
+			"home_0": "38anos",
+			"friends_0": "38 anos",
+			"school_0": "38 anos",
+			"work_0": "38 anos",
+			"computer_0": "38anos12 anos",
+			"games_0": "38 anos",
+			"language_1": "espagnol",
+			"home_1": "12 anos",
+			"friends_1": "12 anos",
+			"school_1": "12 anos",
+			"work_1": "19 anos",
+			"computer_1": "19 anos",
+			"games_1": "38 anos",
+			"language_2": "frances",
+			"home_2": "2 anos",
+			"friends_2": "anos",
+			"school_2": "",
+			"work_2": "",
+			"computer_2": "",
+			"games_2": "",
+			"language_3": "kriolo",
+			"home_3": "",
+			"friends_3": "",
+			"school_3": "",
+			"work_3": "",
+			"computer_3": "",
+			"games_3": ""
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 12,
+		"time_elapsed": 2330307,
+		"internal_node_id": "0.0-12.0"
+	},
+	{
+		"rt": 33665,
+		"response": {
+			"new_languages": 6
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-likert",
+		"trial_index": 13,
+		"time_elapsed": 2364074,
+		"internal_node_id": "0.0-13.0"
+	},
+	{
+		"rt": 144802,
+		"response": {
+			"language_0": "portugues ",
+			"listen_0": "7",
+			"talk_0": "7",
+			"read_0": "7",
+			"write_0": "7",
+			"language_1": "espagnol",
+			"listen_1": "7",
+			"talk_1": "7",
+			"read_1": "7",
+			"write_1": "7",
+			"language_2": "frances",
+			"listen_2": "7",
+			"talk_2": "7",
+			"read_2": "7",
+			"write_2": "7",
+			"language_3": "kriolo7",
+			"listen_3": "7",
+			"talk_3": "7",
+			"read_3": "7",
+			"write_3": "7"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 14,
+		"time_elapsed": 2508977,
+		"internal_node_id": "0.0-14.0"
+	},
+	{
+		"rt": 393290,
+		"response": {
+			"language_0": "portuguers",
+			"tv_0": "1 a2 hrs1 hrs",
+			"radio_0": "",
+			"read_fun_0": "2hrs",
+			"read_work_0": "10hrs",
+			"write_0": "",
+			"social_nets_0": "",
+			"language_1": "espagnol",
+			"tv_1": "",
+			"radio_1": "",
+			"read_fun_1": "",
+			"read_work_1": "",
+			"write_1": "",
+			"social_nets_1": "",
+			"language_2": "frances",
+			"tv_2": "",
+			"radio_2": "",
+			"read_fun_2": "",
+			"read_work_2": "",
+			"write_2": "",
+			"social_nets_2": "",
+			"language_3": "kriolo",
+			"tv_3": "",
+			"radio_3": "",
+			"read_fun_3": "",
+			"read_work_3": "",
+			"write_3": "",
+			"social_nets_3": ""
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 15,
+		"time_elapsed": 2902367,
+		"internal_node_id": "0.0-15.0"
+	},
+	{
+		"rt": 513441,
+		"response": {
+			"language_0": "portugues",
+			"family_0": "18 hrs",
+			"friends_0": "18 hrs18 1",
+			"work_0": "18 hrs",
+			"school_0": "18hrs",
+			"language_1": "espagnol",
+			"family_1": "14 hrs",
+			"friends_1": "14 hrs",
+			"work_1": "14hrs",
+			"school_1": "14 hrs",
+			"language_2": "frances",
+			"family_2": "16hrs",
+			"friends_2": "16 hrs",
+			"work_2": "16hrs",
+			"school_2": "16 hrs",
+			"language_3": "kriolo",
+			"family_3": "14 hrs",
+			"friends_3": "14 hrs",
+			"work_3": "14hrs",
+			"school_3": "14 hrs"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 16,
+		"time_elapsed": 3415909,
+		"internal_node_id": "0.0-16.0"
+	},
+	{
+		"rt": 332178,
+		"response": {
+			"language_0_0": "pporuguer",
+			"language_0_1": "protugues",
+			"language_0_2": "frances",
+			"language_0_3": "frances",
+			"language_1_0": "frances",
+			"language_1_1": "kriolo",
+			"language_1_2": "frances",
+			"language_1_3": "francees",
+			"language_2_0": "portugues",
+			"language_2_1": "potugues",
+			"language_2_2": "frances",
+			"language_2_3": "frances",
+			"language_3_0": "portugues",
+			"language_3_1": "portugeus",
+			"language_3_2": "frances",
+			"language_3_3": "frances"
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 17,
+		"time_elapsed": 3748189,
+		"internal_node_id": "0.0-17.0"
+	},
+	{
+		"rt": 326339,
+		"response": {
+			"language_2": "FRANCES ",
+			"think_2": "",
+			"selftalk_2": "",
+			"emotions_2": "",
+			"dream_2": "7",
+			"math_2": "7",
+			"remember_2": "",
+			"pray_2": "",
+			"language_1": "espAGNOL",
+			"think_1": "",
+			"selftalk_1": "",
+			"emotions_1": "",
+			"dream_1": "",
+			"math_1": "",
+			"remember_1": "",
+			"pray_1": "",
+			"language_3": "KRIOLO",
+			"think_3": "7",
+			"selftalk_3": "",
+			"emotions_3": "7",
+			"dream_3": "7",
+			"math_3": "",
+			"remember_3": "",
+			"pray_3": ""
+		},
+		"trial_type": "survey-html-form",
+		"trial_index": 18,
+		"time_elapsed": 4074629,
+		"internal_node_id": "0.0-18.0"
+	},
+	{
+		"rt": 15049,
+		"response": {
+			"dificuldade_visao_ou_audicao": "Não"
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 19,
+		"time_elapsed": 4089780,
+		"internal_node_id": "0.0-19.0"
+	},
+	{
+		"rt": 39374,
+		"response": {
+			"detalhes_dificuldades_audicao_ou_visao": ""
+		},
+		"trial_type": "survey-text",
+		"trial_index": 20,
+		"time_elapsed": 4129260,
+		"internal_node_id": "0.0-20.0"
+	},
+	{
+		"rt": 65458,
+		"response": {
+			"additional_info": "CONVERSAR BASTANTES"
+		},
+		"trial_type": "survey-text",
+		"trial_index": 21,
+		"time_elapsed": 4194820,
+		"internal_node_id": "0.0-21.0"
+	}
+]

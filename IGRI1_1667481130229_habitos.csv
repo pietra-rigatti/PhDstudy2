@@ -1,0 +1,5 @@
+"view_history","rt","trial_type","trial_index","time_elapsed","internal_node_id","response","question_order"
+"[{""page_index"":0,""viewing_time"":2606}]","2606","instructions","0","2611","0.0-0.0","",""
+"","81399","survey-multi-choice","1","84128","0.0-1.0","{""reading_habits_printed_magazines"":""Raramente"",""reading_habits_printed_newspapers"":""Nunca"",""reading_habits_books"":""Raramente"",""reading_habits_printed_socialmedias"":""Alguns dias da semana""}","[0,1,2,3]"
+"","29713","survey-multi-choice","2","113963","0.0-2.0","{""reading_habits_virtual_magazines"":""Nunca"",""reading_habits_virtual_newspapers"":""Nunca"",""reading_habits_books"":""Todos os dias"",""reading_habits_virtual_socialmedias"":""Alguns dias da semana""}","[0,1,2,3]"
+"","111401","survey-text","3","225484","0.0-3.0","{""reading_habits_other_which"":""Mangá e gibi"",""reading_habits_other_frequency"":""todos os dias""}",""

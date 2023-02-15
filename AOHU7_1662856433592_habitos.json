@@ -1,0 +1,64 @@
+[
+	{
+		"view_history": [
+			{
+				"page_index": 0,
+				"viewing_time": 4099
+			}
+		],
+		"rt": 4099,
+		"trial_type": "instructions",
+		"trial_index": 0,
+		"time_elapsed": 4100,
+		"internal_node_id": "0.0-0.0"
+	},
+	{
+		"rt": 53002,
+		"response": {
+			"reading_habits_printed_magazines": "Raramente",
+			"reading_habits_printed_newspapers": "Todos os dias",
+			"reading_habits_books": "Alguns dias da semana",
+			"reading_habits_printed_socialmedias": "Todos os dias"
+		},
+		"question_order": [
+			0,
+			1,
+			2,
+			3
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 1,
+		"time_elapsed": 57205,
+		"internal_node_id": "0.0-1.0"
+	},
+	{
+		"rt": 34450,
+		"response": {
+			"reading_habits_virtual_magazines": "Raramente",
+			"reading_habits_virtual_newspapers": "Todos os dias",
+			"reading_habits_books": "Alguns dias da semana",
+			"reading_habits_virtual_socialmedias": "Todos os dias"
+		},
+		"question_order": [
+			0,
+			1,
+			2,
+			3
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 2,
+		"time_elapsed": 91757,
+		"internal_node_id": "0.0-2.0"
+	},
+	{
+		"rt": 207458,
+		"response": {
+			"reading_habits_other_which": "BIBLIA",
+			"reading_habits_other_frequency": "BIBLIA"
+		},
+		"trial_type": "survey-text",
+		"trial_index": 3,
+		"time_elapsed": 299316,
+		"internal_node_id": "0.0-3.0"
+	}
+]

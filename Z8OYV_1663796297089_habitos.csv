@@ -1,0 +1,5 @@
+"view_history","rt","trial_type","trial_index","time_elapsed","internal_node_id","response","question_order"
+"[{""page_index"":0,""viewing_time"":10498}]","10498","instructions","0","10500","0.0-0.0","",""
+"","130586","survey-multi-choice","1","141194","0.0-1.0","{""reading_habits_printed_magazines"":"""",""reading_habits_printed_newspapers"":"""",""reading_habits_books"":"""",""reading_habits_printed_socialmedias"":""""}","[0,1,2,3]"
+"","14945","survey-multi-choice","2","156241","0.0-2.0","{""reading_habits_virtual_magazines"":"""",""reading_habits_virtual_newspapers"":"""",""reading_habits_books"":"""",""reading_habits_virtual_socialmedias"":""Raramente""}","[0,1,2,3]"
+"","19377","survey-text","3","175722","0.0-3.0","{""reading_habits_other_which"":"""",""reading_habits_other_frequency"":""""}",""

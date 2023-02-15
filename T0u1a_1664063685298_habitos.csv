@@ -1,0 +1,5 @@
+"view_history","rt","trial_type","trial_index","time_elapsed","internal_node_id","response","question_order"
+"[{""page_index"":0,""viewing_time"":5287}]","5288","instructions","0","5289","0.0-0.0","",""
+"","526365","survey-multi-choice","1","531768","0.0-1.0","{""reading_habits_printed_magazines"":""Alguns dias da semana"",""reading_habits_printed_newspapers"":""Raramente"",""reading_habits_books"":""Raramente"",""reading_habits_printed_socialmedias"":""Uma vez por semana""}","[0,1,2,3]"
+"","212816","survey-multi-choice","2","744687","0.0-2.0","{""reading_habits_virtual_magazines"":""Alguns dias da semana"",""reading_habits_virtual_newspapers"":""Raramente"",""reading_habits_books"":""Alguns dias da semana"",""reading_habits_virtual_socialmedias"":""Alguns dias da semana""}","[0,1,2,3]"
+"","188673","survey-text","3","933463","0.0-3.0","{""reading_habits_other_which"":""A BIBLIA"",""reading_habits_other_frequency"":""LEA""}",""

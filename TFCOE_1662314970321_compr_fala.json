@@ -1,0 +1,7386 @@
+[
+	{
+		"view_history": [
+			{
+				"page_index": 0,
+				"viewing_time": 70473
+			},
+			{
+				"page_index": 1,
+				"viewing_time": 9497
+			}
+		],
+		"rt": 79970,
+		"trial_type": "instructions",
+		"trial_index": 0,
+		"time_elapsed": 79974,
+		"internal_node_id": "0.0-0.0"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 1,
+		"time_elapsed": 81098,
+		"internal_node_id": "0.0-1.0-0.0-0.0"
+	},
+	{
+		"rt": 6541,
+		"stimulus": "../audio/prac-question-1-1.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 2,
+		"time_elapsed": 89108,
+		"internal_node_id": "0.0-1.0-1.0"
+	},
+	{
+		"rt": 1909,
+		"stimulus": "../audio/prac-question-1-2.mp3",
+		"response": " ",
+		"word": "dia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 3,
+		"time_elapsed": 91386,
+		"internal_node_id": "0.0-1.0-1.1"
+	},
+	{
+		"rt": 1931,
+		"stimulus": "../audio/prac-question-1-3.mp3",
+		"response": " ",
+		"word": "estará",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 4,
+		"time_elapsed": 93692,
+		"internal_node_id": "0.0-1.0-1.2"
+	},
+	{
+		"rt": 1149,
+		"stimulus": "../audio/prac-question-1-4.mp3",
+		"response": " ",
+		"word": "cheio",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 5,
+		"time_elapsed": 95205,
+		"internal_node_id": "0.0-1.0-1.3"
+	},
+	{
+		"rt": 1112,
+		"stimulus": "../audio/prac-question-1-5.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 6,
+		"time_elapsed": 96654,
+		"internal_node_id": "0.0-1.0-1.4"
+	},
+	{
+		"rt": 1979,
+		"stimulus": "../audio/prac-question-1-6.mp3",
+		"response": " ",
+		"word": "nuvens",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 7,
+		"time_elapsed": 98979,
+		"internal_node_id": "0.0-1.0-1.5"
+	},
+	{
+		"rt": 1440,
+		"stimulus": "../audio/prac-question-1-7.mp3",
+		"response": " ",
+		"word": "hoje.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 8,
+		"time_elapsed": 100784,
+		"internal_node_id": "0.0-1.0-1.6"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 9,
+		"time_elapsed": 102063,
+		"internal_node_id": "0.0-1.0-0.7-0.7"
+	},
+	{
+		"rt": 1432,
+		"stimulus": "../audio/prac-question-2-1.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 10,
+		"time_elapsed": 103856,
+		"internal_node_id": "0.0-1.0-1.7"
+	},
+	{
+		"rt": 1469,
+		"stimulus": "../audio/prac-question-2-2.mp3",
+		"response": " ",
+		"word": "caneca",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 11,
+		"time_elapsed": 105668,
+		"internal_node_id": "0.0-1.0-1.8"
+	},
+	{
+		"rt": 1429,
+		"stimulus": "../audio/prac-question-2-3.mp3",
+		"response": " ",
+		"word": "colorida",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 12,
+		"time_elapsed": 107427,
+		"internal_node_id": "0.0-1.0-1.9"
+	},
+	{
+		"rt": 1408,
+		"stimulus": "../audio/prac-question-2-4.mp3",
+		"response": " ",
+		"word": "caiu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 13,
+		"time_elapsed": 109177,
+		"internal_node_id": "0.0-1.0-1.10"
+	},
+	{
+		"rt": 1301,
+		"stimulus": "../audio/prac-question-2-5.mp3",
+		"response": " ",
+		"word": "da",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 14,
+		"time_elapsed": 110815,
+		"internal_node_id": "0.0-1.0-1.11"
+	},
+	{
+		"rt": 1299,
+		"stimulus": "../audio/prac-question-2-6.mp3",
+		"response": " ",
+		"word": "mesa",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 15,
+		"time_elapsed": 112462,
+		"internal_node_id": "0.0-1.0-1.12"
+	},
+	{
+		"rt": 952,
+		"stimulus": "../audio/prac-question-2-7.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 16,
+		"time_elapsed": 113736,
+		"internal_node_id": "0.0-1.0-1.13"
+	},
+	{
+		"rt": 2040,
+		"stimulus": "../audio/prac-question-2-8.mp3",
+		"response": " ",
+		"word": "jantar.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 17,
+		"time_elapsed": 116107,
+		"internal_node_id": "0.0-1.0-1.14"
+	},
+	{
+		"rt": 5132,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">A caneca era colorida?</span>",
+		"response": "s",
+		"question": "A caneca era colorida?",
+		"answer": "null",
+		"trial": "prac-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 18,
+		"time_elapsed": 121498,
+		"internal_node_id": "0.0-1.0-2.14-0.14",
+		"accuracy": false
+	},
+	{
+		"view_history": [
+			{
+				"page_index": 0,
+				"viewing_time": 7777
+			}
+		],
+		"rt": 7777,
+		"trial_type": "instructions",
+		"trial_index": 19,
+		"time_elapsed": 129781,
+		"internal_node_id": "0.0-2.0"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 20,
+		"time_elapsed": 130908,
+		"internal_node_id": "0.0-3.0-0.0-0.0"
+	},
+	{
+		"rt": 1672,
+		"stimulus": "../audio/37-1-masc.mp3",
+		"response": " ",
+		"word": "Eu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 21,
+		"time_elapsed": 132927,
+		"internal_node_id": "0.0-3.0-1.0"
+	},
+	{
+		"rt": 1181,
+		"stimulus": "../audio/37-2-masc.mp3",
+		"response": " ",
+		"word": "adoro",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 22,
+		"time_elapsed": 134441,
+		"internal_node_id": "0.0-3.0-1.1"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/37-3-masc.mp3",
+		"response": " ",
+		"word": "suco",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 23,
+		"time_elapsed": 135852,
+		"internal_node_id": "0.0-3.0-1.2"
+	},
+	{
+		"rt": 941,
+		"stimulus": "../audio/37-4-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 24,
+		"time_elapsed": 137116,
+		"internal_node_id": "0.0-3.0-1.3"
+	},
+	{
+		"rt": 1219,
+		"stimulus": "../audio/37-5-masc.mp3",
+		"response": " ",
+		"word": "manga",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 25,
+		"time_elapsed": 138666,
+		"internal_node_id": "0.0-3.0-1.4"
+	},
+	{
+		"rt": 1011,
+		"stimulus": "../audio/37-6-masc.mp3",
+		"response": " ",
+		"word": "com",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 26,
+		"time_elapsed": 140007,
+		"internal_node_id": "0.0-3.0-1.5"
+	},
+	{
+		"rt": 2421,
+		"stimulus": "../audio/37-7-masc.mp3",
+		"response": " ",
+		"word": "hortelã.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 27,
+		"time_elapsed": 142757,
+		"internal_node_id": "0.0-3.0-1.6"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 28,
+		"time_elapsed": 144022,
+		"internal_node_id": "0.0-3.0-0.7-0.7"
+	},
+	{
+		"rt": 1528,
+		"stimulus": "../audio/36-1-masc.mp3",
+		"response": " ",
+		"word": "Meu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 29,
+		"time_elapsed": 145903,
+		"internal_node_id": "0.0-3.0-1.7"
+	},
+	{
+		"rt": 1061,
+		"stimulus": "../audio/36-2-masc.mp3",
+		"response": " ",
+		"word": "tio",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 30,
+		"time_elapsed": 147287,
+		"internal_node_id": "0.0-3.0-1.8"
+	},
+	{
+		"rt": 1021,
+		"stimulus": "../audio/36-3-masc.mp3",
+		"response": " ",
+		"word": "comprou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 31,
+		"time_elapsed": 148640,
+		"internal_node_id": "0.0-3.0-1.9"
+	},
+	{
+		"rt": 872,
+		"stimulus": "../audio/36-4-masc.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 32,
+		"time_elapsed": 149850,
+		"internal_node_id": "0.0-3.0-1.10"
+	},
+	{
+		"rt": 1171,
+		"stimulus": "../audio/36-5-masc.mp3",
+		"response": " ",
+		"word": "filtro",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 33,
+		"time_elapsed": 151357,
+		"internal_node_id": "0.0-3.0-1.11"
+	},
+	{
+		"rt": 979,
+		"stimulus": "../audio/36-6-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 34,
+		"time_elapsed": 152667,
+		"internal_node_id": "0.0-3.0-1.12"
+	},
+	{
+		"rt": 1109,
+		"stimulus": "../audio/36-7-masc.mp3",
+		"response": " ",
+		"word": "água",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 35,
+		"time_elapsed": 154106,
+		"internal_node_id": "0.0-3.0-1.13"
+	},
+	{
+		"rt": 971,
+		"stimulus": "../audio/36-8-masc.mp3",
+		"response": " ",
+		"word": "hoje",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 36,
+		"time_elapsed": 155403,
+		"internal_node_id": "0.0-3.0-1.14"
+	},
+	{
+		"rt": 3200,
+		"stimulus": "../audio/36-9-masc.mp3",
+		"response": " ",
+		"word": "cedo.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 37,
+		"time_elapsed": 158940,
+		"internal_node_id": "0.0-3.0-1.15"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 38,
+		"time_elapsed": 160213,
+		"internal_node_id": "0.0-3.0-0.16-0.16"
+	},
+	{
+		"rt": 1392,
+		"stimulus": "../audio/38-1-fem.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 39,
+		"time_elapsed": 161969,
+		"internal_node_id": "0.0-3.0-1.16"
+	},
+	{
+		"rt": 1531,
+		"stimulus": "../audio/38-2-fem.mp3",
+		"response": " ",
+		"word": "empresa",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 40,
+		"time_elapsed": 163844,
+		"internal_node_id": "0.0-3.0-1.17"
+	},
+	{
+		"rt": 1269,
+		"stimulus": "../audio/38-3-fem.mp3",
+		"response": " ",
+		"word": "criou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 41,
+		"time_elapsed": 165457,
+		"internal_node_id": "0.0-3.0-1.18"
+	},
+	{
+		"rt": 931,
+		"stimulus": "../audio/38-4-fem.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 42,
+		"time_elapsed": 166726,
+		"internal_node_id": "0.0-3.0-1.19"
+	},
+	{
+		"rt": 1400,
+		"stimulus": "../audio/38-5-fem.mp3",
+		"response": " ",
+		"word": "patente",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 43,
+		"time_elapsed": 168476,
+		"internal_node_id": "0.0-3.0-1.20"
+	},
+	{
+		"rt": 1029,
+		"stimulus": "../audio/38-6-fem.mp3",
+		"response": " ",
+		"word": "da",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 44,
+		"time_elapsed": 169835,
+		"internal_node_id": "0.0-3.0-1.21"
+	},
+	{
+		"rt": 2720,
+		"stimulus": "../audio/38-7-fem.mp3",
+		"response": " ",
+		"word": "frigideira.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 45,
+		"time_elapsed": 172929,
+		"internal_node_id": "0.0-3.0-1.22"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 46,
+		"time_elapsed": 174208,
+		"internal_node_id": "0.0-3.0-0.23-0.23"
+	},
+	{
+		"rt": 1360,
+		"stimulus": "../audio/39-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 47,
+		"time_elapsed": 175941,
+		"internal_node_id": "0.0-3.0-1.23"
+	},
+	{
+		"rt": 1509,
+		"stimulus": "../audio/39-2-masc.mp3",
+		"response": " ",
+		"word": "conselho",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 48,
+		"time_elapsed": 177804,
+		"internal_node_id": "0.0-3.0-1.24"
+	},
+	{
+		"rt": 1352,
+		"stimulus": "../audio/39-3-masc.mp3",
+		"response": " ",
+		"word": "foi",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 49,
+		"time_elapsed": 179491,
+		"internal_node_id": "0.0-3.0-1.25"
+	},
+	{
+		"rt": 1509,
+		"stimulus": "../audio/39-4-masc.mp3",
+		"response": " ",
+		"word": "muito",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 50,
+		"time_elapsed": 181341,
+		"internal_node_id": "0.0-3.0-1.26"
+	},
+	{
+		"rt": 1109,
+		"stimulus": "../audio/39-5-masc.mp3",
+		"response": " ",
+		"word": "útil",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 51,
+		"time_elapsed": 182790,
+		"internal_node_id": "0.0-3.0-1.27"
+	},
+	{
+		"rt": 981,
+		"stimulus": "../audio/39-6-masc.mp3",
+		"response": " ",
+		"word": "para",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 52,
+		"time_elapsed": 184121,
+		"internal_node_id": "0.0-3.0-1.28"
+	},
+	{
+		"rt": 1269,
+		"stimulus": "../audio/39-7-masc.mp3",
+		"response": " ",
+		"word": "minha",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 53,
+		"time_elapsed": 185742,
+		"internal_node_id": "0.0-3.0-1.29"
+	},
+	{
+		"rt": 3461,
+		"stimulus": "../audio/39-8-masc.mp3",
+		"response": " ",
+		"word": "tia.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 54,
+		"time_elapsed": 189535,
+		"internal_node_id": "0.0-3.0-1.30"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 55,
+		"time_elapsed": 190802,
+		"internal_node_id": "0.0-3.0-0.31-0.31"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/40-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 56,
+		"time_elapsed": 192247,
+		"internal_node_id": "0.0-3.0-1.31"
+	},
+	{
+		"rt": 1021,
+		"stimulus": "../audio/40-2-masc.mp3",
+		"response": " ",
+		"word": "jogo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 57,
+		"time_elapsed": 193599,
+		"internal_node_id": "0.0-3.0-1.32"
+	},
+	{
+		"rt": 949,
+		"stimulus": "../audio/40-3-masc.mp3",
+		"response": " ",
+		"word": "falava",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 58,
+		"time_elapsed": 194880,
+		"internal_node_id": "0.0-3.0-1.33"
+	},
+	{
+		"rt": 880,
+		"stimulus": "../audio/40-4-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 59,
+		"time_elapsed": 196096,
+		"internal_node_id": "0.0-3.0-1.34"
+	},
+	{
+		"rt": 1411,
+		"stimulus": "../audio/40-5-masc.mp3",
+		"response": " ",
+		"word": "fantasia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 60,
+		"time_elapsed": 197837,
+		"internal_node_id": "0.0-3.0-1.35"
+	},
+	{
+		"rt": 909,
+		"stimulus": "../audio/40-6-masc.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 61,
+		"time_elapsed": 199077,
+		"internal_node_id": "0.0-3.0-1.36"
+	},
+	{
+		"rt": 979,
+		"stimulus": "../audio/40-7-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 62,
+		"time_elapsed": 200387,
+		"internal_node_id": "0.0-3.0-1.37"
+	},
+	{
+		"rt": 1640,
+		"stimulus": "../audio/40-8-masc.mp3",
+		"response": " ",
+		"word": "aventura.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 63,
+		"time_elapsed": 202370,
+		"internal_node_id": "0.0-3.0-1.38"
+	},
+	{
+		"rt": 3223,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">O jogo tinha fantasia e aventura?</span>",
+		"response": "s",
+		"question": "O jogo tinha fantasia e aventura?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 64,
+		"time_elapsed": 205858,
+		"internal_node_id": "0.0-3.0-2.38-0.38",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 65,
+		"time_elapsed": 207365,
+		"internal_node_id": "0.0-3.0-0.39-0.39"
+	},
+	{
+		"rt": 1019,
+		"stimulus": "../audio/57-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 66,
+		"time_elapsed": 208747,
+		"internal_node_id": "0.0-3.0-1.39"
+	},
+	{
+		"rt": 1171,
+		"stimulus": "../audio/57-2-masc.mp3",
+		"response": " ",
+		"word": "capitão",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 67,
+		"time_elapsed": 210248,
+		"internal_node_id": "0.0-3.0-1.40"
+	},
+	{
+		"rt": 968,
+		"stimulus": "../audio/57-3-masc.mp3",
+		"response": " ",
+		"word": "deu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 68,
+		"time_elapsed": 211544,
+		"internal_node_id": "0.0-3.0-1.41"
+	},
+	{
+		"rt": 1011,
+		"stimulus": "../audio/57-4-masc.mp3",
+		"response": " ",
+		"word": "uma",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 69,
+		"time_elapsed": 212887,
+		"internal_node_id": "0.0-3.0-1.42"
+	},
+	{
+		"rt": 1240,
+		"stimulus": "../audio/57-5-masc.mp3",
+		"response": " ",
+		"word": "instrução",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 70,
+		"time_elapsed": 214481,
+		"internal_node_id": "0.0-3.0-1.43"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/57-6-masc.mp3",
+		"response": " ",
+		"word": "para",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 71,
+		"time_elapsed": 215758,
+		"internal_node_id": "0.0-3.0-1.44"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/57-7-masc.mp3",
+		"response": " ",
+		"word": "as",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 72,
+		"time_elapsed": 217037,
+		"internal_node_id": "0.0-3.0-1.45"
+	},
+	{
+		"rt": 2600,
+		"stimulus": "../audio/57-8-masc.mp3",
+		"response": " ",
+		"word": "pessoas.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 73,
+		"time_elapsed": 219984,
+		"internal_node_id": "0.0-3.0-1.46"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 74,
+		"time_elapsed": 221237,
+		"internal_node_id": "0.0-3.0-0.47-0.47"
+	},
+	{
+		"rt": 1451,
+		"stimulus": "../audio/58-1-fem.mp3",
+		"response": " ",
+		"word": "Havia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 75,
+		"time_elapsed": 223090,
+		"internal_node_id": "0.0-3.0-1.47"
+	},
+	{
+		"rt": 1229,
+		"stimulus": "../audio/58-2-fem.mp3",
+		"response": " ",
+		"word": "apenas",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 76,
+		"time_elapsed": 224669,
+		"internal_node_id": "0.0-3.0-1.48"
+	},
+	{
+		"rt": 869,
+		"stimulus": "../audio/58-3-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 77,
+		"time_elapsed": 225867,
+		"internal_node_id": "0.0-3.0-1.49"
+	},
+	{
+		"rt": 1291,
+		"stimulus": "../audio/58-4-fem.mp3",
+		"response": " ",
+		"word": "último",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 78,
+		"time_elapsed": 227492,
+		"internal_node_id": "0.0-3.0-1.50"
+	},
+	{
+		"rt": 1341,
+		"stimulus": "../audio/58-5-fem.mp3",
+		"response": " ",
+		"word": "herdeiro",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 79,
+		"time_elapsed": 229160,
+		"internal_node_id": "0.0-3.0-1.51"
+	},
+	{
+		"rt": 979,
+		"stimulus": "../audio/58-6-fem.mp3",
+		"response": " ",
+		"word": "do",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 80,
+		"time_elapsed": 230462,
+		"internal_node_id": "0.0-3.0-1.52"
+	},
+	{
+		"rt": 2248,
+		"stimulus": "../audio/58-7-fem.mp3",
+		"response": " ",
+		"word": "dinheiro.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 81,
+		"time_elapsed": 233062,
+		"internal_node_id": "0.0-3.0-1.53"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 82,
+		"time_elapsed": 234333,
+		"internal_node_id": "0.0-3.0-0.54-0.54"
+	},
+	{
+		"rt": 272,
+		"stimulus": "../audio/59-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 83,
+		"time_elapsed": 234975,
+		"internal_node_id": "0.0-3.0-1.54"
+	},
+	{
+		"rt": 1331,
+		"stimulus": "../audio/59-2-masc.mp3",
+		"response": " ",
+		"word": "carteiro",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 84,
+		"time_elapsed": 236646,
+		"internal_node_id": "0.0-3.0-1.55"
+	},
+	{
+		"rt": 1051,
+		"stimulus": "../audio/59-3-masc.mp3",
+		"response": " ",
+		"word": "fez",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 85,
+		"time_elapsed": 238027,
+		"internal_node_id": "0.0-3.0-1.56"
+	},
+	{
+		"rt": 1069,
+		"stimulus": "../audio/59-4-masc.mp3",
+		"response": " ",
+		"word": "uma",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 86,
+		"time_elapsed": 239436,
+		"internal_node_id": "0.0-3.0-1.57"
+	},
+	{
+		"rt": 1392,
+		"stimulus": "../audio/59-5-masc.mp3",
+		"response": " ",
+		"word": "tentativa",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 87,
+		"time_elapsed": 241169,
+		"internal_node_id": "0.0-3.0-1.58"
+	},
+	{
+		"rt": 848,
+		"stimulus": "../audio/59-6-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 88,
+		"time_elapsed": 242345,
+		"internal_node_id": "0.0-3.0-1.59"
+	},
+	{
+		"rt": 2960,
+		"stimulus": "../audio/59-7-masc.mp3",
+		"response": " ",
+		"word": "entrega.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 89,
+		"time_elapsed": 245651,
+		"internal_node_id": "0.0-3.0-1.60"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 90,
+		"time_elapsed": 246910,
+		"internal_node_id": "0.0-3.0-0.61-0.61"
+	},
+	{
+		"rt": 1040,
+		"stimulus": "../audio/56-1-fem.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 91,
+		"time_elapsed": 248316,
+		"internal_node_id": "0.0-3.0-1.61"
+	},
+	{
+		"rt": 1088,
+		"stimulus": "../audio/56-2-fem.mp3",
+		"response": " ",
+		"word": "moça",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 92,
+		"time_elapsed": 249737,
+		"internal_node_id": "0.0-3.0-1.62"
+	},
+	{
+		"rt": 941,
+		"stimulus": "../audio/56-3-fem.mp3",
+		"response": " ",
+		"word": "foi",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 93,
+		"time_elapsed": 251015,
+		"internal_node_id": "0.0-3.0-1.63"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/56-4-fem.mp3",
+		"response": " ",
+		"word": "à",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 94,
+		"time_elapsed": 252420,
+		"internal_node_id": "0.0-3.0-1.64"
+	},
+	{
+		"rt": 1400,
+		"stimulus": "../audio/56-5-fem.mp3",
+		"response": " ",
+		"word": "agência",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 95,
+		"time_elapsed": 254157,
+		"internal_node_id": "0.0-3.0-1.65"
+	},
+	{
+		"rt": 1560,
+		"stimulus": "../audio/56-6-fem.mp3",
+		"response": " ",
+		"word": "bancária",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 96,
+		"time_elapsed": 256076,
+		"internal_node_id": "0.0-3.0-1.66"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/56-7-fem.mp3",
+		"response": " ",
+		"word": "ontem",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 97,
+		"time_elapsed": 257491,
+		"internal_node_id": "0.0-3.0-1.67"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/56-8-fem.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 98,
+		"time_elapsed": 258782,
+		"internal_node_id": "0.0-3.0-1.68"
+	},
+	{
+		"rt": 2981,
+		"stimulus": "../audio/56-9-fem.mp3",
+		"response": " ",
+		"word": "tarde.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 99,
+		"time_elapsed": 262090,
+		"internal_node_id": "0.0-3.0-1.69"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 100,
+		"time_elapsed": 263366,
+		"internal_node_id": "0.0-3.0-0.70-0.70"
+	},
+	{
+		"rt": 1221,
+		"stimulus": "../audio/60-1-fem.mp3",
+		"response": " ",
+		"word": "Ondas",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 101,
+		"time_elapsed": 264974,
+		"internal_node_id": "0.0-3.0-1.70"
+	},
+	{
+		"rt": 981,
+		"stimulus": "../audio/60-2-fem.mp3",
+		"response": " ",
+		"word": "têm",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 102,
+		"time_elapsed": 266279,
+		"internal_node_id": "0.0-3.0-1.71"
+	},
+	{
+		"rt": 981,
+		"stimulus": "../audio/60-3-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 103,
+		"time_elapsed": 267602,
+		"internal_node_id": "0.0-3.0-1.72"
+	},
+	{
+		"rt": 1368,
+		"stimulus": "../audio/60-4-fem.mp3",
+		"response": " ",
+		"word": "impacto",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 104,
+		"time_elapsed": 269297,
+		"internal_node_id": "0.0-3.0-1.73"
+	},
+	{
+		"rt": 19,
+		"stimulus": "../audio/60-5-fem.mp3",
+		"response": " ",
+		"word": "destrutivo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 105,
+		"time_elapsed": 269656,
+		"internal_node_id": "0.0-3.0-1.74"
+	},
+	{
+		"rt": 1000,
+		"stimulus": "../audio/60-6-fem.mp3",
+		"response": " ",
+		"word": "no",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 106,
+		"time_elapsed": 270977,
+		"internal_node_id": "0.0-3.0-1.75"
+	},
+	{
+		"rt": 1659,
+		"stimulus": "../audio/60-7-fem.mp3",
+		"response": " ",
+		"word": "litoral.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 107,
+		"time_elapsed": 272980,
+		"internal_node_id": "0.0-3.0-1.76"
+	},
+	{
+		"rt": 7179,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">Ondas têm um impacto destrutivo?</span>",
+		"response": "s",
+		"question": "Ondas têm um impacto destrutivo?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 108,
+		"time_elapsed": 280424,
+		"internal_node_id": "0.0-3.0-2.76-0.76",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 109,
+		"time_elapsed": 281943,
+		"internal_node_id": "0.0-3.0-0.77-0.77"
+	},
+	{
+		"rt": 1251,
+		"stimulus": "../audio/31-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 110,
+		"time_elapsed": 283560,
+		"internal_node_id": "0.0-3.0-1.77"
+	},
+	{
+		"rt": 1320,
+		"stimulus": "../audio/31-2-masc.mp3",
+		"response": " ",
+		"word": "padeiro",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 111,
+		"time_elapsed": 285232,
+		"internal_node_id": "0.0-3.0-1.78"
+	},
+	{
+		"rt": 1171,
+		"stimulus": "../audio/31-3-masc.mp3",
+		"response": " ",
+		"word": "usou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 112,
+		"time_elapsed": 286733,
+		"internal_node_id": "0.0-3.0-1.79"
+	},
+	{
+		"rt": 981,
+		"stimulus": "../audio/31-4-masc.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 113,
+		"time_elapsed": 288052,
+		"internal_node_id": "0.0-3.0-1.80"
+	},
+	{
+		"rt": 1280,
+		"stimulus": "../audio/31-5-masc.mp3",
+		"response": " ",
+		"word": "balança",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 114,
+		"time_elapsed": 289678,
+		"internal_node_id": "0.0-3.0-1.81"
+	},
+	{
+		"rt": 1088,
+		"stimulus": "../audio/31-6-masc.mp3",
+		"response": " ",
+		"word": "o",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 115,
+		"time_elapsed": 291100,
+		"internal_node_id": "0.0-3.0-1.82"
+	},
+	{
+		"rt": 1171,
+		"stimulus": "../audio/31-7-masc.mp3",
+		"response": " ",
+		"word": "dia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 116,
+		"time_elapsed": 292608,
+		"internal_node_id": "0.0-3.0-1.83"
+	},
+	{
+		"rt": 3320,
+		"stimulus": "../audio/31-8-masc.mp3",
+		"response": " ",
+		"word": "inteiro.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 117,
+		"time_elapsed": 296274,
+		"internal_node_id": "0.0-3.0-1.84"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 118,
+		"time_elapsed": 297553,
+		"internal_node_id": "0.0-3.0-0.85-0.85"
+	},
+	{
+		"rt": 381,
+		"stimulus": "../audio/34-1-masc.mp3",
+		"response": " ",
+		"word": "Cobrança",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 119,
+		"time_elapsed": 298316,
+		"internal_node_id": "0.0-3.0-1.85"
+	},
+	{
+		"rt": 1280,
+		"stimulus": "../audio/34-2-masc.mp3",
+		"response": " ",
+		"word": "excessiva",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 120,
+		"time_elapsed": 299946,
+		"internal_node_id": "0.0-3.0-1.86"
+	},
+	{
+		"rt": 851,
+		"stimulus": "../audio/34-3-masc.mp3",
+		"response": " ",
+		"word": "é",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 121,
+		"time_elapsed": 301116,
+		"internal_node_id": "0.0-3.0-1.87"
+	},
+	{
+		"rt": 1019,
+		"stimulus": "../audio/34-4-masc.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 122,
+		"time_elapsed": 302457,
+		"internal_node_id": "0.0-3.0-1.88"
+	},
+	{
+		"rt": 3261,
+		"stimulus": "../audio/34-5-masc.mp3",
+		"response": " ",
+		"word": "fardo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 123,
+		"time_elapsed": 306049,
+		"internal_node_id": "0.0-3.0-1.89"
+	},
+	{
+		"rt": 1248,
+		"stimulus": "../audio/34-6-masc.mp3",
+		"response": " ",
+		"word": "para",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 124,
+		"time_elapsed": 307658,
+		"internal_node_id": "0.0-3.0-1.90"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/34-7-masc.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 125,
+		"time_elapsed": 308897,
+		"internal_node_id": "0.0-3.0-1.91"
+	},
+	{
+		"rt": 3531,
+		"stimulus": "../audio/34-8-masc.mp3",
+		"response": " ",
+		"word": "cabeça.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 126,
+		"time_elapsed": 312763,
+		"internal_node_id": "0.0-3.0-1.92"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 127,
+		"time_elapsed": 314029,
+		"internal_node_id": "0.0-3.0-0.93-0.93"
+	},
+	{
+		"rt": 1011,
+		"stimulus": "../audio/32-1-masc.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 128,
+		"time_elapsed": 315445,
+		"internal_node_id": "0.0-3.0-1.93"
+	},
+	{
+		"rt": 1051,
+		"stimulus": "../audio/32-2-masc.mp3",
+		"response": " ",
+		"word": "tia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 129,
+		"time_elapsed": 316843,
+		"internal_node_id": "0.0-3.0-1.94"
+	},
+	{
+		"rt": 1301,
+		"stimulus": "../audio/32-3-masc.mp3",
+		"response": " ",
+		"word": "comprou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 130,
+		"time_elapsed": 318491,
+		"internal_node_id": "0.0-3.0-1.95"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/32-4-masc.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 131,
+		"time_elapsed": 319784,
+		"internal_node_id": "0.0-3.0-1.96"
+	},
+	{
+		"rt": 1109,
+		"stimulus": "../audio/32-5-masc.mp3",
+		"response": " ",
+		"word": "pilão",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 132,
+		"time_elapsed": 321243,
+		"internal_node_id": "0.0-3.0-1.97"
+	},
+	{
+		"rt": 1011,
+		"stimulus": "../audio/32-6-masc.mp3",
+		"response": " ",
+		"word": "para",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 133,
+		"time_elapsed": 322588,
+		"internal_node_id": "0.0-3.0-1.98"
+	},
+	{
+		"rt": 989,
+		"stimulus": "../audio/32-7-masc.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 134,
+		"time_elapsed": 323915,
+		"internal_node_id": "0.0-3.0-1.99"
+	},
+	{
+		"rt": 2221,
+		"stimulus": "../audio/32-8-masc.mp3",
+		"response": " ",
+		"word": "cozinha.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 135,
+		"time_elapsed": 326478,
+		"internal_node_id": "0.0-3.0-1.100"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 136,
+		"time_elapsed": 327740,
+		"internal_node_id": "0.0-3.0-0.101-0.101"
+	},
+	{
+		"rt": 1040,
+		"stimulus": "../audio/33-1-masc.mp3",
+		"response": " ",
+		"word": "Eles",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 137,
+		"time_elapsed": 329155,
+		"internal_node_id": "0.0-3.0-1.101"
+	},
+	{
+		"rt": 1171,
+		"stimulus": "../audio/33-2-masc.mp3",
+		"response": " ",
+		"word": "sabem",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 138,
+		"time_elapsed": 330675,
+		"internal_node_id": "0.0-3.0-1.102"
+	},
+	{
+		"rt": 1008,
+		"stimulus": "../audio/33-3-masc.mp3",
+		"response": " ",
+		"word": "do",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 139,
+		"time_elapsed": 332016,
+		"internal_node_id": "0.0-3.0-1.103"
+	},
+	{
+		"rt": 1131,
+		"stimulus": "../audio/33-4-masc.mp3",
+		"response": " ",
+		"word": "seu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 140,
+		"time_elapsed": 333493,
+		"internal_node_id": "0.0-3.0-1.104"
+	},
+	{
+		"rt": 1491,
+		"stimulus": "../audio/33-5-masc.mp3",
+		"response": " ",
+		"word": "privilégio",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 141,
+		"time_elapsed": 335334,
+		"internal_node_id": "0.0-3.0-1.105"
+	},
+	{
+		"rt": 1149,
+		"stimulus": "../audio/33-6-masc.mp3",
+		"response": " ",
+		"word": "nessa",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 142,
+		"time_elapsed": 336834,
+		"internal_node_id": "0.0-3.0-1.106"
+	},
+	{
+		"rt": 3101,
+		"stimulus": "../audio/33-7-masc.mp3",
+		"response": " ",
+		"word": "confusão.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 143,
+		"time_elapsed": 340277,
+		"internal_node_id": "0.0-3.0-1.107"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 144,
+		"time_elapsed": 341547,
+		"internal_node_id": "0.0-3.0-0.108-0.108"
+	},
+	{
+		"rt": 851,
+		"stimulus": "../audio/35-1-masc.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 145,
+		"time_elapsed": 342746,
+		"internal_node_id": "0.0-3.0-1.108"
+	},
+	{
+		"rt": 1240,
+		"stimulus": "../audio/35-2-masc.mp3",
+		"response": " ",
+		"word": "receita",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 146,
+		"time_elapsed": 344309,
+		"internal_node_id": "0.0-3.0-1.109"
+	},
+	{
+		"rt": 1139,
+		"stimulus": "../audio/35-3-masc.mp3",
+		"response": " ",
+		"word": "para",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 147,
+		"time_elapsed": 345785,
+		"internal_node_id": "0.0-3.0-1.110"
+	},
+	{
+		"rt": 989,
+		"stimulus": "../audio/35-4-masc.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 148,
+		"time_elapsed": 347119,
+		"internal_node_id": "0.0-3.0-1.111"
+	},
+	{
+		"rt": 1320,
+		"stimulus": "../audio/35-5-masc.mp3",
+		"response": " ",
+		"word": "preparação",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 149,
+		"time_elapsed": 348775,
+		"internal_node_id": "0.0-3.0-1.112"
+	},
+	{
+		"rt": 880,
+		"stimulus": "../audio/35-6-masc.mp3",
+		"response": " ",
+		"word": "do",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 150,
+		"time_elapsed": 349982,
+		"internal_node_id": "0.0-3.0-1.113"
+	},
+	{
+		"rt": 1139,
+		"stimulus": "../audio/35-7-masc.mp3",
+		"response": " ",
+		"word": "bolo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 151,
+		"time_elapsed": 351460,
+		"internal_node_id": "0.0-3.0-1.114"
+	},
+	{
+		"rt": 1011,
+		"stimulus": "../audio/35-8-masc.mp3",
+		"response": " ",
+		"word": "é",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 152,
+		"time_elapsed": 352790,
+		"internal_node_id": "0.0-3.0-1.115"
+	},
+	{
+		"rt": 3440,
+		"stimulus": "../audio/35-9-masc.mp3",
+		"response": " ",
+		"word": "leve.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 153,
+		"time_elapsed": 356563,
+		"internal_node_id": "0.0-3.0-1.116"
+	},
+	{
+		"rt": 3133,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">A receita do bolo é pesada?</span>",
+		"response": "n",
+		"question": "A receita do bolo é pesada?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 154,
+		"time_elapsed": 359958,
+		"internal_node_id": "0.0-3.0-2.116-0.116",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 155,
+		"time_elapsed": 361473,
+		"internal_node_id": "0.0-3.0-0.117-0.117"
+	},
+	{
+		"rt": 1928,
+		"stimulus": "../audio/53-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 156,
+		"time_elapsed": 363780,
+		"internal_node_id": "0.0-3.0-1.117"
+	},
+	{
+		"rt": 1579,
+		"stimulus": "../audio/53-2-fem.mp3",
+		"response": " ",
+		"word": "médico",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 157,
+		"time_elapsed": 365748,
+		"internal_node_id": "0.0-3.0-1.118"
+	},
+	{
+		"rt": 1200,
+		"stimulus": "../audio/53-3-fem.mp3",
+		"response": " ",
+		"word": "foi",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 158,
+		"time_elapsed": 367283,
+		"internal_node_id": "0.0-3.0-1.119"
+	},
+	{
+		"rt": 1309,
+		"stimulus": "../audio/53-4-fem.mp3",
+		"response": " ",
+		"word": "bastante",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 159,
+		"time_elapsed": 368962,
+		"internal_node_id": "0.0-3.0-1.120"
+	},
+	{
+		"rt": 1579,
+		"stimulus": "../audio/53-5-fem.mp3",
+		"response": " ",
+		"word": "preciso",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 160,
+		"time_elapsed": 370869,
+		"internal_node_id": "0.0-3.0-1.121"
+	},
+	{
+		"rt": 1200,
+		"stimulus": "../audio/53-6-fem.mp3",
+		"response": " ",
+		"word": "durante",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 161,
+		"time_elapsed": 372410,
+		"internal_node_id": "0.0-3.0-1.122"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/53-7-fem.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 162,
+		"time_elapsed": 373701,
+		"internal_node_id": "0.0-3.0-1.123"
+	},
+	{
+		"rt": 2171,
+		"stimulus": "../audio/53-8-fem.mp3",
+		"response": " ",
+		"word": "cirurgia.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 163,
+		"time_elapsed": 376200,
+		"internal_node_id": "0.0-3.0-1.124"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 164,
+		"time_elapsed": 377466,
+		"internal_node_id": "0.0-3.0-0.125-0.125"
+	},
+	{
+		"rt": 1189,
+		"stimulus": "../audio/51-1-masc.mp3",
+		"response": " ",
+		"word": "Suco",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 165,
+		"time_elapsed": 379019,
+		"internal_node_id": "0.0-3.0-1.125"
+	},
+	{
+		"rt": 891,
+		"stimulus": "../audio/51-2-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 166,
+		"time_elapsed": 380253,
+		"internal_node_id": "0.0-3.0-1.126"
+	},
+	{
+		"rt": 1411,
+		"stimulus": "../audio/51-3-masc.mp3",
+		"response": " ",
+		"word": "acerola",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 167,
+		"time_elapsed": 382004,
+		"internal_node_id": "0.0-3.0-1.127"
+	},
+	{
+		"rt": 909,
+		"stimulus": "../audio/51-4-masc.mp3",
+		"response": " ",
+		"word": "é",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 168,
+		"time_elapsed": 383240,
+		"internal_node_id": "0.0-3.0-1.128"
+	},
+	{
+		"rt": 1371,
+		"stimulus": "../audio/51-5-masc.mp3",
+		"response": " ",
+		"word": "azedo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 169,
+		"time_elapsed": 384946,
+		"internal_node_id": "0.0-3.0-1.129"
+	},
+	{
+		"rt": 949,
+		"stimulus": "../audio/51-6-masc.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 170,
+		"time_elapsed": 386239,
+		"internal_node_id": "0.0-3.0-1.130"
+	},
+	{
+		"rt": 1309,
+		"stimulus": "../audio/51-7-masc.mp3",
+		"response": " ",
+		"word": "até",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 171,
+		"time_elapsed": 387876,
+		"internal_node_id": "0.0-3.0-1.131"
+	},
+	{
+		"rt": 4240,
+		"stimulus": "../audio/51-8-masc.mp3",
+		"response": " ",
+		"word": "barato.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 172,
+		"time_elapsed": 392442,
+		"internal_node_id": "0.0-3.0-1.132"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 173,
+		"time_elapsed": 393709,
+		"internal_node_id": "0.0-3.0-0.133-0.133"
+	},
+	{
+		"rt": 1520,
+		"stimulus": "../audio/54-1-fem.mp3",
+		"response": " ",
+		"word": "Estou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 174,
+		"time_elapsed": 395615,
+		"internal_node_id": "0.0-3.0-1.133"
+	},
+	{
+		"rt": 1320,
+		"stimulus": "../audio/54-2-fem.mp3",
+		"response": " ",
+		"word": "com",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 175,
+		"time_elapsed": 397274,
+		"internal_node_id": "0.0-3.0-1.134"
+	},
+	{
+		"rt": 1931,
+		"stimulus": "../audio/54-3-fem.mp3",
+		"response": " ",
+		"word": "medo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 176,
+		"time_elapsed": 399550,
+		"internal_node_id": "0.0-3.0-1.135"
+	},
+	{
+		"rt": 931,
+		"stimulus": "../audio/54-4-fem.mp3",
+		"response": " ",
+		"word": "da",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 177,
+		"time_elapsed": 400833,
+		"internal_node_id": "0.0-3.0-1.136"
+	},
+	{
+		"rt": 1408,
+		"stimulus": "../audio/54-5-fem.mp3",
+		"response": " ",
+		"word": "atual",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 178,
+		"time_elapsed": 402576,
+		"internal_node_id": "0.0-3.0-1.137"
+	},
+	{
+		"rt": 1709,
+		"stimulus": "../audio/54-6-fem.mp3",
+		"response": " ",
+		"word": "organização",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 179,
+		"time_elapsed": 404631,
+		"internal_node_id": "0.0-3.0-1.138"
+	},
+	{
+		"rt": 1011,
+		"stimulus": "../audio/54-7-fem.mp3",
+		"response": " ",
+		"word": "do",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 180,
+		"time_elapsed": 406008,
+		"internal_node_id": "0.0-3.0-1.139"
+	},
+	{
+		"rt": 2680,
+		"stimulus": "../audio/54-8-fem.mp3",
+		"response": " ",
+		"word": "país.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 181,
+		"time_elapsed": 409029,
+		"internal_node_id": "0.0-3.0-1.140"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 182,
+		"time_elapsed": 410284,
+		"internal_node_id": "0.0-3.0-0.141-0.141"
+	},
+	{
+		"rt": 1200,
+		"stimulus": "../audio/52-1-masc.mp3",
+		"response": " ",
+		"word": "Às",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 183,
+		"time_elapsed": 411852,
+		"internal_node_id": "0.0-3.0-1.141"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/52-2-masc.mp3",
+		"response": " ",
+		"word": "vezes",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 184,
+		"time_elapsed": 413154,
+		"internal_node_id": "0.0-3.0-1.142"
+	},
+	{
+		"rt": 880,
+		"stimulus": "../audio/52-3-masc.mp3",
+		"response": " ",
+		"word": "eu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 185,
+		"time_elapsed": 414358,
+		"internal_node_id": "0.0-3.0-1.143"
+	},
+	{
+		"rt": 979,
+		"stimulus": "../audio/52-4-masc.mp3",
+		"response": " ",
+		"word": "tenho",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 186,
+		"time_elapsed": 415666,
+		"internal_node_id": "0.0-3.0-1.144"
+	},
+	{
+		"rt": 1219,
+		"stimulus": "../audio/52-5-masc.mp3",
+		"response": " ",
+		"word": "azia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 187,
+		"time_elapsed": 417221,
+		"internal_node_id": "0.0-3.0-1.145"
+	},
+	{
+		"rt": 1059,
+		"stimulus": "../audio/52-6-masc.mp3",
+		"response": " ",
+		"word": "depois",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 188,
+		"time_elapsed": 418621,
+		"internal_node_id": "0.0-3.0-1.146"
+	},
+	{
+		"rt": 1021,
+		"stimulus": "../audio/52-7-masc.mp3",
+		"response": " ",
+		"word": "da",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 189,
+		"time_elapsed": 419975,
+		"internal_node_id": "0.0-3.0-1.147"
+	},
+	{
+		"rt": 3008,
+		"stimulus": "../audio/52-8-masc.mp3",
+		"response": " ",
+		"word": "janta.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 190,
+		"time_elapsed": 423337,
+		"internal_node_id": "0.0-3.0-1.148"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 191,
+		"time_elapsed": 424613,
+		"internal_node_id": "0.0-3.0-0.149-0.149"
+	},
+	{
+		"rt": 1069,
+		"stimulus": "../audio/55-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 192,
+		"time_elapsed": 426045,
+		"internal_node_id": "0.0-3.0-1.149"
+	},
+	{
+		"rt": 1651,
+		"stimulus": "../audio/55-2-fem.mp3",
+		"response": " ",
+		"word": "insulto",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 193,
+		"time_elapsed": 428053,
+		"internal_node_id": "0.0-3.0-1.150"
+	},
+	{
+		"rt": 1811,
+		"stimulus": "../audio/55-3-fem.mp3",
+		"response": " ",
+		"word": "recente",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 194,
+		"time_elapsed": 430212,
+		"internal_node_id": "0.0-3.0-1.151"
+	},
+	{
+		"rt": 1360,
+		"stimulus": "../audio/55-4-fem.mp3",
+		"response": " ",
+		"word": "causou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 195,
+		"time_elapsed": 431925,
+		"internal_node_id": "0.0-3.0-1.152"
+	},
+	{
+		"rt": 1869,
+		"stimulus": "../audio/55-5-fem.mp3",
+		"response": " ",
+		"word": "indignação",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 196,
+		"time_elapsed": 434156,
+		"internal_node_id": "0.0-3.0-1.153"
+	},
+	{
+		"rt": 1200,
+		"stimulus": "../audio/55-6-fem.mp3",
+		"response": " ",
+		"word": "em",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 197,
+		"time_elapsed": 435699,
+		"internal_node_id": "0.0-3.0-1.154"
+	},
+	{
+		"rt": 3309,
+		"stimulus": "../audio/55-7-fem.mp3",
+		"response": " ",
+		"word": "todos.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 198,
+		"time_elapsed": 439339,
+		"internal_node_id": "0.0-3.0-1.155"
+	},
+	{
+		"rt": 5416,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">O insulto causou calmaria?</span>",
+		"response": "s",
+		"question": "O insulto causou calmaria?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 199,
+		"time_elapsed": 445021,
+		"internal_node_id": "0.0-3.0-2.155-0.155",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 200,
+		"time_elapsed": 446534,
+		"internal_node_id": "0.0-3.0-0.156-0.156"
+	},
+	{
+		"rt": 1240,
+		"stimulus": "../audio/26-1-masc.mp3",
+		"response": " ",
+		"word": "Amanhã",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 201,
+		"time_elapsed": 448184,
+		"internal_node_id": "0.0-3.0-1.156"
+	},
+	{
+		"rt": 1021,
+		"stimulus": "../audio/26-2-masc.mp3",
+		"response": " ",
+		"word": "temos",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 202,
+		"time_elapsed": 449528,
+		"internal_node_id": "0.0-3.0-1.157"
+	},
+	{
+		"rt": 1032,
+		"stimulus": "../audio/26-3-masc.mp3",
+		"response": " ",
+		"word": "festa",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 203,
+		"time_elapsed": 450896,
+		"internal_node_id": "0.0-3.0-1.158"
+	},
+	{
+		"rt": 1171,
+		"stimulus": "../audio/26-4-masc.mp3",
+		"response": " ",
+		"word": "na",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 204,
+		"time_elapsed": 452398,
+		"internal_node_id": "0.0-3.0-1.159"
+	},
+	{
+		"rt": 1309,
+		"stimulus": "../audio/26-5-masc.mp3",
+		"response": " ",
+		"word": "piscina",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 205,
+		"time_elapsed": 454044,
+		"internal_node_id": "0.0-3.0-1.160"
+	},
+	{
+		"rt": 1040,
+		"stimulus": "../audio/26-6-masc.mp3",
+		"response": " ",
+		"word": "o",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 206,
+		"time_elapsed": 455409,
+		"internal_node_id": "0.0-3.0-1.161"
+	},
+	{
+		"rt": 1139,
+		"stimulus": "../audio/26-7-masc.mp3",
+		"response": " ",
+		"word": "dia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 207,
+		"time_elapsed": 456866,
+		"internal_node_id": "0.0-3.0-1.162"
+	},
+	{
+		"rt": 2059,
+		"stimulus": "../audio/26-8-masc.mp3",
+		"response": " ",
+		"word": "todo.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 208,
+		"time_elapsed": 459265,
+		"internal_node_id": "0.0-3.0-1.163"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 209,
+		"time_elapsed": 460528,
+		"internal_node_id": "0.0-3.0-0.164-0.164"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/28-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 210,
+		"time_elapsed": 461966,
+		"internal_node_id": "0.0-3.0-1.164"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/28-2-masc.mp3",
+		"response": " ",
+		"word": "time",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 211,
+		"time_elapsed": 463395,
+		"internal_node_id": "0.0-3.0-1.165"
+	},
+	{
+		"rt": 1301,
+		"stimulus": "../audio/28-3-masc.mp3",
+		"response": " ",
+		"word": "quer",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 212,
+		"time_elapsed": 465037,
+		"internal_node_id": "0.0-3.0-1.166"
+	},
+	{
+		"rt": 1059,
+		"stimulus": "../audio/28-4-masc.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 213,
+		"time_elapsed": 466417,
+		"internal_node_id": "0.0-3.0-1.167"
+	},
+	{
+		"rt": 1339,
+		"stimulus": "../audio/28-5-masc.mp3",
+		"response": " ",
+		"word": "vitória",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 214,
+		"time_elapsed": 468096,
+		"internal_node_id": "0.0-3.0-1.168"
+	},
+	{
+		"rt": 1240,
+		"stimulus": "../audio/28-6-masc.mp3",
+		"response": " ",
+		"word": "no",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 215,
+		"time_elapsed": 469673,
+		"internal_node_id": "0.0-3.0-1.169"
+	},
+	{
+		"rt": 1120,
+		"stimulus": "../audio/28-7-masc.mp3",
+		"response": " ",
+		"word": "jogo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 216,
+		"time_elapsed": 471136,
+		"internal_node_id": "0.0-3.0-1.170"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/28-8-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 217,
+		"time_elapsed": 472387,
+		"internal_node_id": "0.0-3.0-1.171"
+	},
+	{
+		"rt": 2451,
+		"stimulus": "../audio/28-9-masc.mp3",
+		"response": " ",
+		"word": "vôlei.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 218,
+		"time_elapsed": 475187,
+		"internal_node_id": "0.0-3.0-1.172"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 219,
+		"time_elapsed": 476454,
+		"internal_node_id": "0.0-3.0-0.173-0.173"
+	},
+	{
+		"rt": 1389,
+		"stimulus": "../audio/29-1-fem.mp3",
+		"response": " ",
+		"word": "Hoje",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 220,
+		"time_elapsed": 478235,
+		"internal_node_id": "0.0-3.0-1.173"
+	},
+	{
+		"rt": 1139,
+		"stimulus": "../audio/29-2-fem.mp3",
+		"response": " ",
+		"word": "vamos",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 221,
+		"time_elapsed": 479746,
+		"internal_node_id": "0.0-3.0-1.174"
+	},
+	{
+		"rt": 1240,
+		"stimulus": "../audio/29-3-fem.mp3",
+		"response": " ",
+		"word": "fazer",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 222,
+		"time_elapsed": 481337,
+		"internal_node_id": "0.0-3.0-1.175"
+	},
+	{
+		"rt": 1099,
+		"stimulus": "../audio/29-4-fem.mp3",
+		"response": " ",
+		"word": "uma",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 223,
+		"time_elapsed": 482779,
+		"internal_node_id": "0.0-3.0-1.176"
+	},
+	{
+		"rt": 1720,
+		"stimulus": "../audio/29-5-fem.mp3",
+		"response": " ",
+		"word": "atividade",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 224,
+		"time_elapsed": 484864,
+		"internal_node_id": "0.0-3.0-1.177"
+	},
+	{
+		"rt": 1189,
+		"stimulus": "../audio/29-6-fem.mp3",
+		"response": " ",
+		"word": "sobre",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 225,
+		"time_elapsed": 486436,
+		"internal_node_id": "0.0-3.0-1.178"
+	},
+	{
+		"rt": 1112,
+		"stimulus": "../audio/29-7-fem.mp3",
+		"response": " ",
+		"word": "fauna",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 226,
+		"time_elapsed": 487887,
+		"internal_node_id": "0.0-3.0-1.179"
+	},
+	{
+		"rt": 3781,
+		"stimulus": "../audio/29-8-fem.mp3",
+		"response": " ",
+		"word": "marinha.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 227,
+		"time_elapsed": 492012,
+		"internal_node_id": "0.0-3.0-1.180"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 228,
+		"time_elapsed": 493282,
+		"internal_node_id": "0.0-3.0-0.181-0.181"
+	},
+	{
+		"rt": 979,
+		"stimulus": "../audio/27-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 229,
+		"time_elapsed": 494620,
+		"internal_node_id": "0.0-3.0-1.181"
+	},
+	{
+		"rt": 1181,
+		"stimulus": "../audio/27-2-fem.mp3",
+		"response": " ",
+		"word": "dinheiro",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 230,
+		"time_elapsed": 496116,
+		"internal_node_id": "0.0-3.0-1.182"
+	},
+	{
+		"rt": 1189,
+		"stimulus": "../audio/27-3-fem.mp3",
+		"response": " ",
+		"word": "chegou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 231,
+		"time_elapsed": 497656,
+		"internal_node_id": "0.0-3.0-1.183"
+	},
+	{
+		"rt": 891,
+		"stimulus": "../audio/27-4-fem.mp3",
+		"response": " ",
+		"word": "à",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 232,
+		"time_elapsed": 498871,
+		"internal_node_id": "0.0-3.0-1.184"
+	},
+	{
+		"rt": 1488,
+		"stimulus": "../audio/27-5-fem.mp3",
+		"response": " ",
+		"word": "elite",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 233,
+		"time_elapsed": 500699,
+		"internal_node_id": "0.0-3.0-1.185"
+	},
+	{
+		"rt": 1211,
+		"stimulus": "../audio/27-6-fem.mp3",
+		"response": " ",
+		"word": "deste",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 234,
+		"time_elapsed": 502229,
+		"internal_node_id": "0.0-3.0-1.186"
+	},
+	{
+		"rt": 3269,
+		"stimulus": "../audio/27-7-fem.mp3",
+		"response": " ",
+		"word": "país.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 235,
+		"time_elapsed": 505842,
+		"internal_node_id": "0.0-3.0-1.187"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 236,
+		"time_elapsed": 507106,
+		"internal_node_id": "0.0-3.0-0.188-0.188"
+	},
+	{
+		"rt": 819,
+		"stimulus": "../audio/30-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 237,
+		"time_elapsed": 508302,
+		"internal_node_id": "0.0-3.0-1.188"
+	},
+	{
+		"rt": 1531,
+		"stimulus": "../audio/30-2-fem.mp3",
+		"response": " ",
+		"word": "funcionário",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 238,
+		"time_elapsed": 510161,
+		"internal_node_id": "0.0-3.0-1.189"
+	},
+	{
+		"rt": 1389,
+		"stimulus": "../audio/30-3-fem.mp3",
+		"response": " ",
+		"word": "entregou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 239,
+		"time_elapsed": 511900,
+		"internal_node_id": "0.0-3.0-1.190"
+	},
+	{
+		"rt": 1131,
+		"stimulus": "../audio/30-4-fem.mp3",
+		"response": " ",
+		"word": "o",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 240,
+		"time_elapsed": 513345,
+		"internal_node_id": "0.0-3.0-1.191"
+	},
+	{
+		"rt": 1291,
+		"stimulus": "../audio/30-5-fem.mp3",
+		"response": " ",
+		"word": "restante",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 241,
+		"time_elapsed": 514960,
+		"internal_node_id": "0.0-3.0-1.192"
+	},
+	{
+		"rt": 829,
+		"stimulus": "../audio/30-6-fem.mp3",
+		"response": " ",
+		"word": "do",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 242,
+		"time_elapsed": 516123,
+		"internal_node_id": "0.0-3.0-1.193"
+	},
+	{
+		"rt": 3568,
+		"stimulus": "../audio/30-7-fem.mp3",
+		"response": " ",
+		"word": "dinheiro.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 243,
+		"time_elapsed": 520016,
+		"internal_node_id": "0.0-3.0-1.194"
+	},
+	{
+		"rt": 12673,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">O funcionário entregou o contrato?</span>",
+		"response": "n",
+		"question": "O funcionário entregou o contrato?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 244,
+		"time_elapsed": 532943,
+		"internal_node_id": "0.0-3.0-2.194-0.194",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 245,
+		"time_elapsed": 534454,
+		"internal_node_id": "0.0-3.0-0.195-0.195"
+	},
+	{
+		"rt": 1251,
+		"stimulus": "../audio/11-1-fem.mp3",
+		"response": " ",
+		"word": "Elas",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 246,
+		"time_elapsed": 536073,
+		"internal_node_id": "0.0-3.0-1.195"
+	},
+	{
+		"rt": 1160,
+		"stimulus": "../audio/11-2-fem.mp3",
+		"response": " ",
+		"word": "gostam",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 247,
+		"time_elapsed": 537566,
+		"internal_node_id": "0.0-3.0-1.196"
+	},
+	{
+		"rt": 1160,
+		"stimulus": "../audio/11-3-fem.mp3",
+		"response": " ",
+		"word": "muito",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 248,
+		"time_elapsed": 539062,
+		"internal_node_id": "0.0-3.0-1.197"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/11-4-fem.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 249,
+		"time_elapsed": 540472,
+		"internal_node_id": "0.0-3.0-1.198"
+	},
+	{
+		"rt": 1960,
+		"stimulus": "../audio/11-5-fem.mp3",
+		"response": " ",
+		"word": "aritmética",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 250,
+		"time_elapsed": 542785,
+		"internal_node_id": "0.0-3.0-1.199"
+	},
+	{
+		"rt": 1709,
+		"stimulus": "../audio/11-6-fem.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 251,
+		"time_elapsed": 544838,
+		"internal_node_id": "0.0-3.0-1.200"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/11-7-fem.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 252,
+		"time_elapsed": 546282,
+		"internal_node_id": "0.0-3.0-1.201"
+	},
+	{
+		"rt": 3360,
+		"stimulus": "../audio/11-8-fem.mp3",
+		"response": " ",
+		"word": "leitura.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 253,
+		"time_elapsed": 549989,
+		"internal_node_id": "0.0-3.0-1.202"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 254,
+		"time_elapsed": 551272,
+		"internal_node_id": "0.0-3.0-0.203-0.203"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/13-1-fem.mp3",
+		"response": " ",
+		"word": "Para",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 255,
+		"time_elapsed": 552604,
+		"internal_node_id": "0.0-3.0-1.203"
+	},
+	{
+		"rt": 1328,
+		"stimulus": "../audio/13-2-fem.mp3",
+		"response": " ",
+		"word": "mim",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 256,
+		"time_elapsed": 554260,
+		"internal_node_id": "0.0-3.0-1.204"
+	},
+	{
+		"rt": 1629,
+		"stimulus": "../audio/13-3-fem.mp3",
+		"response": " ",
+		"word": "é",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 257,
+		"time_elapsed": 556223,
+		"internal_node_id": "0.0-3.0-1.205"
+	},
+	{
+		"rt": 1309,
+		"stimulus": "../audio/13-4-fem.mp3",
+		"response": " ",
+		"word": "muito",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 258,
+		"time_elapsed": 557866,
+		"internal_node_id": "0.0-3.0-1.206"
+	},
+	{
+		"rt": 1269,
+		"stimulus": "../audio/13-5-fem.mp3",
+		"response": " ",
+		"word": "difícil",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 259,
+		"time_elapsed": 559484,
+		"internal_node_id": "0.0-3.0-1.207"
+	},
+	{
+		"rt": 1451,
+		"stimulus": "../audio/13-6-fem.mp3",
+		"response": " ",
+		"word": "acordar",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 260,
+		"time_elapsed": 561266,
+		"internal_node_id": "0.0-3.0-1.208"
+	},
+	{
+		"rt": 2651,
+		"stimulus": "../audio/13-7-fem.mp3",
+		"response": " ",
+		"word": "cedo.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 261,
+		"time_elapsed": 564250,
+		"internal_node_id": "0.0-3.0-1.209"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 262,
+		"time_elapsed": 565530,
+		"internal_node_id": "0.0-3.0-0.210-0.210"
+	},
+	{
+		"rt": 811,
+		"stimulus": "../audio/12-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 263,
+		"time_elapsed": 566748,
+		"internal_node_id": "0.0-3.0-1.210"
+	},
+	{
+		"rt": 909,
+		"stimulus": "../audio/12-2-fem.mp3",
+		"response": " ",
+		"word": "dia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 264,
+		"time_elapsed": 568001,
+		"internal_node_id": "0.0-3.0-1.211"
+	},
+	{
+		"rt": 1139,
+		"stimulus": "../audio/12-3-fem.mp3",
+		"response": " ",
+		"word": "estava",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 265,
+		"time_elapsed": 569497,
+		"internal_node_id": "0.0-3.0-1.212"
+	},
+	{
+		"rt": 1101,
+		"stimulus": "../audio/12-4-fem.mp3",
+		"response": " ",
+		"word": "quente,",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 266,
+		"time_elapsed": 570975,
+		"internal_node_id": "0.0-3.0-1.213"
+	},
+	{
+		"rt": 1371,
+		"stimulus": "../audio/12-5-fem.mp3",
+		"response": " ",
+		"word": "tranquilo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 267,
+		"time_elapsed": 572692,
+		"internal_node_id": "0.0-3.0-1.214"
+	},
+	{
+		"rt": 909,
+		"stimulus": "../audio/12-6-fem.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 268,
+		"time_elapsed": 573916,
+		"internal_node_id": "0.0-3.0-1.215"
+	},
+	{
+		"rt": 5392,
+		"stimulus": "../audio/12-7-fem.mp3",
+		"response": " ",
+		"word": "ensolarado.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 269,
+		"time_elapsed": 579647,
+		"internal_node_id": "0.0-3.0-1.216"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 270,
+		"time_elapsed": 580909,
+		"internal_node_id": "0.0-3.0-0.217-0.217"
+	},
+	{
+		"rt": 1141,
+		"stimulus": "../audio/14-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 271,
+		"time_elapsed": 582400,
+		"internal_node_id": "0.0-3.0-1.217"
+	},
+	{
+		"rt": 1349,
+		"stimulus": "../audio/14-2-masc.mp3",
+		"response": " ",
+		"word": "cachorro",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 272,
+		"time_elapsed": 584080,
+		"internal_node_id": "0.0-3.0-1.218"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/14-3-masc.mp3",
+		"response": " ",
+		"word": "é",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 273,
+		"time_elapsed": 585331,
+		"internal_node_id": "0.0-3.0-1.219"
+	},
+	{
+		"rt": 1000,
+		"stimulus": "../audio/14-4-masc.mp3",
+		"response": " ",
+		"word": "muito",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 274,
+		"time_elapsed": 586647,
+		"internal_node_id": "0.0-3.0-1.220"
+	},
+	{
+		"rt": 1101,
+		"stimulus": "../audio/14-5-masc.mp3",
+		"response": " ",
+		"word": "fiel",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 275,
+		"time_elapsed": 588087,
+		"internal_node_id": "0.0-3.0-1.221"
+	},
+	{
+		"rt": 909,
+		"stimulus": "../audio/14-6-masc.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 276,
+		"time_elapsed": 589316,
+		"internal_node_id": "0.0-3.0-1.222"
+	},
+	{
+		"rt": 1008,
+		"stimulus": "../audio/14-7-masc.mp3",
+		"response": " ",
+		"word": "seus",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 277,
+		"time_elapsed": 590666,
+		"internal_node_id": "0.0-3.0-1.223"
+	},
+	{
+		"rt": 2560,
+		"stimulus": "../audio/14-8-masc.mp3",
+		"response": " ",
+		"word": "donos.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 278,
+		"time_elapsed": 593554,
+		"internal_node_id": "0.0-3.0-1.224"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 279,
+		"time_elapsed": 594818,
+		"internal_node_id": "0.0-3.0-0.225-0.225"
+	},
+	{
+		"rt": 992,
+		"stimulus": "../audio/15-1-masc.mp3",
+		"response": " ",
+		"word": "Meu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 280,
+		"time_elapsed": 596169,
+		"internal_node_id": "0.0-3.0-1.225"
+	},
+	{
+		"rt": 1040,
+		"stimulus": "../audio/15-2-masc.mp3",
+		"response": " ",
+		"word": "primo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 281,
+		"time_elapsed": 597552,
+		"internal_node_id": "0.0-3.0-1.226"
+	},
+	{
+		"rt": 981,
+		"stimulus": "../audio/15-3-masc.mp3",
+		"response": " ",
+		"word": "é",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 282,
+		"time_elapsed": 598846,
+		"internal_node_id": "0.0-3.0-1.227"
+	},
+	{
+		"rt": 949,
+		"stimulus": "../audio/15-4-masc.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 283,
+		"time_elapsed": 600121,
+		"internal_node_id": "0.0-3.0-1.228"
+	},
+	{
+		"rt": 1240,
+		"stimulus": "../audio/15-5-masc.mp3",
+		"response": " ",
+		"word": "grande",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 284,
+		"time_elapsed": 601703,
+		"internal_node_id": "0.0-3.0-1.229"
+	},
+	{
+		"rt": 1419,
+		"stimulus": "../audio/15-6-masc.mp3",
+		"response": " ",
+		"word": "vendedor",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 285,
+		"time_elapsed": 603460,
+		"internal_node_id": "0.0-3.0-1.230"
+	},
+	{
+		"rt": 1061,
+		"stimulus": "../audio/15-7-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 286,
+		"time_elapsed": 604854,
+		"internal_node_id": "0.0-3.0-1.231"
+	},
+	{
+		"rt": 3531,
+		"stimulus": "../audio/15-8-masc.mp3",
+		"response": " ",
+		"word": "carros.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 287,
+		"time_elapsed": 608725,
+		"internal_node_id": "0.0-3.0-1.232"
+	},
+	{
+		"rt": 2614,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">O primo é um vendedor de carros?</span>",
+		"response": "s",
+		"question": "O primo é um vendedor de carros?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 288,
+		"time_elapsed": 611594,
+		"internal_node_id": "0.0-3.0-2.232-0.232",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 289,
+		"time_elapsed": 613124,
+		"internal_node_id": "0.0-3.0-0.233-0.233"
+	},
+	{
+		"rt": 971,
+		"stimulus": "../audio/08-1-masc.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 290,
+		"time_elapsed": 614447,
+		"internal_node_id": "0.0-3.0-1.233"
+	},
+	{
+		"rt": 1181,
+		"stimulus": "../audio/08-2-masc.mp3",
+		"response": " ",
+		"word": "receita",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 291,
+		"time_elapsed": 615966,
+		"internal_node_id": "0.0-3.0-1.234"
+	},
+	{
+		"rt": 891,
+		"stimulus": "../audio/08-3-masc.mp3",
+		"response": " ",
+		"word": "pede",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 292,
+		"time_elapsed": 617188,
+		"internal_node_id": "0.0-3.0-1.235"
+	},
+	{
+		"rt": 840,
+		"stimulus": "../audio/08-4-masc.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 293,
+		"time_elapsed": 618367,
+		"internal_node_id": "0.0-3.0-1.236"
+	},
+	{
+		"rt": 1072,
+		"stimulus": "../audio/08-5-masc.mp3",
+		"response": " ",
+		"word": "litro",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 294,
+		"time_elapsed": 619767,
+		"internal_node_id": "0.0-3.0-1.237"
+	},
+	{
+		"rt": 851,
+		"stimulus": "../audio/08-6-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 295,
+		"time_elapsed": 620949,
+		"internal_node_id": "0.0-3.0-1.238"
+	},
+	{
+		"rt": 1000,
+		"stimulus": "../audio/08-7-masc.mp3",
+		"response": " ",
+		"word": "leite",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 296,
+		"time_elapsed": 622285,
+		"internal_node_id": "0.0-3.0-1.239"
+	},
+	{
+		"rt": 1648,
+		"stimulus": "../audio/08-8-masc.mp3",
+		"response": " ",
+		"word": "integral.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 297,
+		"time_elapsed": 624263,
+		"internal_node_id": "0.0-3.0-1.240"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 298,
+		"time_elapsed": 625533,
+		"internal_node_id": "0.0-3.0-0.241-0.241"
+	},
+	{
+		"rt": 1571,
+		"stimulus": "../audio/06-1-fem.mp3",
+		"response": " ",
+		"word": "Ouvimos",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 299,
+		"time_elapsed": 627469,
+		"internal_node_id": "0.0-3.0-1.241"
+	},
+	{
+		"rt": 941,
+		"stimulus": "../audio/06-2-fem.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 300,
+		"time_elapsed": 628767,
+		"internal_node_id": "0.0-3.0-1.242"
+	},
+	{
+		"rt": 392,
+		"stimulus": "../audio/06-3-fem.mp3",
+		"response": " ",
+		"word": "fala",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 301,
+		"time_elapsed": 629490,
+		"internal_node_id": "0.0-3.0-1.243"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/06-4-fem.mp3",
+		"response": " ",
+		"word": "do",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 302,
+		"time_elapsed": 630773,
+		"internal_node_id": "0.0-3.0-1.244"
+	},
+	{
+		"rt": 1331,
+		"stimulus": "../audio/06-5-fem.mp3",
+		"response": " ",
+		"word": "profeta",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 303,
+		"time_elapsed": 632447,
+		"internal_node_id": "0.0-3.0-1.245"
+	},
+	{
+		"rt": 1840,
+		"stimulus": "../audio/06-6-fem.mp3",
+		"response": " ",
+		"word": "no",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 304,
+		"time_elapsed": 634608,
+		"internal_node_id": "0.0-3.0-1.246"
+	},
+	{
+		"rt": 1211,
+		"stimulus": "../audio/06-7-fem.mp3",
+		"response": " ",
+		"word": "púlpito",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 305,
+		"time_elapsed": 636176,
+		"internal_node_id": "0.0-3.0-1.247"
+	},
+	{
+		"rt": 981,
+		"stimulus": "../audio/06-8-fem.mp3",
+		"response": " ",
+		"word": "da",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 306,
+		"time_elapsed": 637494,
+		"internal_node_id": "0.0-3.0-1.248"
+	},
+	{
+		"rt": 2309,
+		"stimulus": "../audio/06-9-fem.mp3",
+		"response": " ",
+		"word": "igreja.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 307,
+		"time_elapsed": 640147,
+		"internal_node_id": "0.0-3.0-1.249"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 308,
+		"time_elapsed": 641413,
+		"internal_node_id": "0.0-3.0-0.250-0.250"
+	},
+	{
+		"rt": 1032,
+		"stimulus": "../audio/07-1-masc.mp3",
+		"response": " ",
+		"word": "Meu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 309,
+		"time_elapsed": 642807,
+		"internal_node_id": "0.0-3.0-1.250"
+	},
+	{
+		"rt": 1101,
+		"stimulus": "../audio/07-2-masc.mp3",
+		"response": " ",
+		"word": "filho",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 310,
+		"time_elapsed": 644245,
+		"internal_node_id": "0.0-3.0-1.251"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/07-3-masc.mp3",
+		"response": " ",
+		"word": "é",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 311,
+		"time_elapsed": 645549,
+		"internal_node_id": "0.0-3.0-1.252"
+	},
+	{
+		"rt": 1040,
+		"stimulus": "../audio/07-4-masc.mp3",
+		"response": " ",
+		"word": "muito",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 312,
+		"time_elapsed": 646919,
+		"internal_node_id": "0.0-3.0-1.253"
+	},
+	{
+		"rt": 1560,
+		"stimulus": "../audio/07-5-masc.mp3",
+		"response": " ",
+		"word": "responsável",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 313,
+		"time_elapsed": 648834,
+		"internal_node_id": "0.0-3.0-1.254"
+	},
+	{
+		"rt": 1171,
+		"stimulus": "../audio/07-6-masc.mp3",
+		"response": " ",
+		"word": "nos",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 314,
+		"time_elapsed": 650314,
+		"internal_node_id": "0.0-3.0-1.255"
+	},
+	{
+		"rt": 3131,
+		"stimulus": "../audio/07-7-masc.mp3",
+		"response": " ",
+		"word": "estudos.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 315,
+		"time_elapsed": 653792,
+		"internal_node_id": "0.0-3.0-1.256"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 316,
+		"time_elapsed": 655058,
+		"internal_node_id": "0.0-3.0-0.257-0.257"
+	},
+	{
+		"rt": 931,
+		"stimulus": "../audio/09-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 317,
+		"time_elapsed": 656355,
+		"internal_node_id": "0.0-3.0-1.257"
+	},
+	{
+		"rt": 1112,
+		"stimulus": "../audio/09-2-fem.mp3",
+		"response": " ",
+		"word": "rapaz",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 318,
+		"time_elapsed": 657812,
+		"internal_node_id": "0.0-3.0-1.258"
+	},
+	{
+		"rt": 1272,
+		"stimulus": "../audio/09-3-fem.mp3",
+		"response": " ",
+		"word": "limpou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 319,
+		"time_elapsed": 659414,
+		"internal_node_id": "0.0-3.0-1.259"
+	},
+	{
+		"rt": 1051,
+		"stimulus": "../audio/09-4-fem.mp3",
+		"response": " ",
+		"word": "o",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 320,
+		"time_elapsed": 660803,
+		"internal_node_id": "0.0-3.0-1.260"
+	},
+	{
+		"rt": 1320,
+		"stimulus": "../audio/09-5-fem.mp3",
+		"response": " ",
+		"word": "terreno",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 321,
+		"time_elapsed": 662465,
+		"internal_node_id": "0.0-3.0-1.261"
+	},
+	{
+		"rt": 1000,
+		"stimulus": "../audio/09-6-fem.mp3",
+		"response": " ",
+		"word": "com",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 322,
+		"time_elapsed": 663794,
+		"internal_node_id": "0.0-3.0-1.262"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/09-7-fem.mp3",
+		"response": " ",
+		"word": "uma",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 323,
+		"time_elapsed": 665095,
+		"internal_node_id": "0.0-3.0-1.263"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/09-8-fem.mp3",
+		"response": " ",
+		"word": "pá.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 324,
+		"time_elapsed": 666341,
+		"internal_node_id": "0.0-3.0-1.264"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 325,
+		"time_elapsed": 667610,
+		"internal_node_id": "0.0-3.0-0.265-0.265"
+	},
+	{
+		"rt": 829,
+		"stimulus": "../audio/10-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 326,
+		"time_elapsed": 668797,
+		"internal_node_id": "0.0-3.0-1.265"
+	},
+	{
+		"rt": 1309,
+		"stimulus": "../audio/10-2-fem.mp3",
+		"response": " ",
+		"word": "pássaro",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 327,
+		"time_elapsed": 670461,
+		"internal_node_id": "0.0-3.0-1.266"
+	},
+	{
+		"rt": 1261,
+		"stimulus": "../audio/10-3-fem.mp3",
+		"response": " ",
+		"word": "azul",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 328,
+		"time_elapsed": 672052,
+		"internal_node_id": "0.0-3.0-1.267"
+	},
+	{
+		"rt": 1339,
+		"stimulus": "../audio/10-4-fem.mp3",
+		"response": " ",
+		"word": "estava",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 329,
+		"time_elapsed": 673745,
+		"internal_node_id": "0.0-3.0-1.268"
+	},
+	{
+		"rt": 1179,
+		"stimulus": "../audio/10-5-fem.mp3",
+		"response": " ",
+		"word": "vivo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 330,
+		"time_elapsed": 675274,
+		"internal_node_id": "0.0-3.0-1.269"
+	},
+	{
+		"rt": 949,
+		"stimulus": "../audio/10-6-fem.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 331,
+		"time_elapsed": 676563,
+		"internal_node_id": "0.0-3.0-1.270"
+	},
+	{
+		"rt": 1029,
+		"stimulus": "../audio/10-7-fem.mp3",
+		"response": " ",
+		"word": "em",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 332,
+		"time_elapsed": 677909,
+		"internal_node_id": "0.0-3.0-1.271"
+	},
+	{
+		"rt": 3629,
+		"stimulus": "../audio/10-8-fem.mp3",
+		"response": " ",
+		"word": "segurança.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 333,
+		"time_elapsed": 681905,
+		"internal_node_id": "0.0-3.0-1.272"
+	},
+	{
+		"rt": 5411,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">O pássaro vermelho estava em segurança?</span>",
+		"response": "s",
+		"question": "O pássaro vermelho estava em segurança?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 334,
+		"time_elapsed": 687575,
+		"internal_node_id": "0.0-3.0-2.272-0.272",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 335,
+		"time_elapsed": 689103,
+		"internal_node_id": "0.0-3.0-0.273-0.273"
+	},
+	{
+		"rt": 1269,
+		"stimulus": "../audio/42-1-fem.mp3",
+		"response": " ",
+		"word": "Eu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 336,
+		"time_elapsed": 690742,
+		"internal_node_id": "0.0-3.0-1.273"
+	},
+	{
+		"rt": 1061,
+		"stimulus": "../audio/42-2-fem.mp3",
+		"response": " ",
+		"word": "fui",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 337,
+		"time_elapsed": 692127,
+		"internal_node_id": "0.0-3.0-1.274"
+	},
+	{
+		"rt": 1069,
+		"stimulus": "../audio/42-3-fem.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 338,
+		"time_elapsed": 693522,
+		"internal_node_id": "0.0-3.0-1.275"
+	},
+	{
+		"rt": 1000,
+		"stimulus": "../audio/42-4-fem.mp3",
+		"response": " ",
+		"word": "uma",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 339,
+		"time_elapsed": 694854,
+		"internal_node_id": "0.0-3.0-1.276"
+	},
+	{
+		"rt": 981,
+		"stimulus": "../audio/42-5-fem.mp3",
+		"response": " ",
+		"word": "loja",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 340,
+		"time_elapsed": 696169,
+		"internal_node_id": "0.0-3.0-1.277"
+	},
+	{
+		"rt": 909,
+		"stimulus": "../audio/42-6-fem.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 341,
+		"time_elapsed": 697403,
+		"internal_node_id": "0.0-3.0-1.278"
+	},
+	{
+		"rt": 1192,
+		"stimulus": "../audio/42-7-fem.mp3",
+		"response": " ",
+		"word": "móveis",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 342,
+		"time_elapsed": 698933,
+		"internal_node_id": "0.0-3.0-1.279"
+	},
+	{
+		"rt": 1011,
+		"stimulus": "../audio/42-8-fem.mp3",
+		"response": " ",
+		"word": "no",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 343,
+		"time_elapsed": 700271,
+		"internal_node_id": "0.0-3.0-1.280"
+	},
+	{
+		"rt": 2480,
+		"stimulus": "../audio/42-9-fem.mp3",
+		"response": " ",
+		"word": "bairro.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 344,
+		"time_elapsed": 703079,
+		"internal_node_id": "0.0-3.0-1.281"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 345,
+		"time_elapsed": 704353,
+		"internal_node_id": "0.0-3.0-0.282-0.282"
+	},
+	{
+		"rt": 971,
+		"stimulus": "../audio/41-1-fem.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 346,
+		"time_elapsed": 705681,
+		"internal_node_id": "0.0-3.0-1.282"
+	},
+	{
+		"rt": 1400,
+		"stimulus": "../audio/41-2-fem.mp3",
+		"response": " ",
+		"word": "novela",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 347,
+		"time_elapsed": 707436,
+		"internal_node_id": "0.0-3.0-1.283"
+	},
+	{
+		"rt": 1491,
+		"stimulus": "../audio/41-3-fem.mp3",
+		"response": " ",
+		"word": "falava",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 348,
+		"time_elapsed": 709283,
+		"internal_node_id": "0.0-3.0-1.284"
+	},
+	{
+		"rt": 1091,
+		"stimulus": "../audio/41-4-fem.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 349,
+		"time_elapsed": 710732,
+		"internal_node_id": "0.0-3.0-1.285"
+	},
+	{
+		"rt": 1771,
+		"stimulus": "../audio/41-5-fem.mp3",
+		"response": " ",
+		"word": "paixão",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 350,
+		"time_elapsed": 712837,
+		"internal_node_id": "0.0-3.0-1.286"
+	},
+	{
+		"rt": 1189,
+		"stimulus": "../audio/41-6-fem.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 351,
+		"time_elapsed": 714520,
+		"internal_node_id": "0.0-3.0-1.287"
+	},
+	{
+		"rt": 3952,
+		"stimulus": "../audio/41-7-fem.mp3",
+		"response": " ",
+		"word": "comédia.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 352,
+		"time_elapsed": 718895,
+		"internal_node_id": "0.0-3.0-1.288"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 353,
+		"time_elapsed": 720163,
+		"internal_node_id": "0.0-3.0-0.289-0.289"
+	},
+	{
+		"rt": 909,
+		"stimulus": "../audio/43-1-fem.mp3",
+		"response": " ",
+		"word": "Eu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 354,
+		"time_elapsed": 721445,
+		"internal_node_id": "0.0-3.0-1.289"
+	},
+	{
+		"rt": 1331,
+		"stimulus": "../audio/43-2-fem.mp3",
+		"response": " ",
+		"word": "achei",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 355,
+		"time_elapsed": 723123,
+		"internal_node_id": "0.0-3.0-1.290"
+	},
+	{
+		"rt": 1019,
+		"stimulus": "../audio/43-3-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 356,
+		"time_elapsed": 724473,
+		"internal_node_id": "0.0-3.0-1.291"
+	},
+	{
+		"rt": 1251,
+		"stimulus": "../audio/43-4-fem.mp3",
+		"response": " ",
+		"word": "colchão",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 357,
+		"time_elapsed": 726088,
+		"internal_node_id": "0.0-3.0-1.292"
+	},
+	{
+		"rt": 1040,
+		"stimulus": "../audio/43-5-fem.mp3",
+		"response": " ",
+		"word": "velho",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 358,
+		"time_elapsed": 727472,
+		"internal_node_id": "0.0-3.0-1.293"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/43-6-fem.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 359,
+		"time_elapsed": 728871,
+		"internal_node_id": "0.0-3.0-1.294"
+	},
+	{
+		"rt": 1291,
+		"stimulus": "../audio/43-7-fem.mp3",
+		"response": " ",
+		"word": "imundo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 360,
+		"time_elapsed": 730486,
+		"internal_node_id": "0.0-3.0-1.295"
+	},
+	{
+		"rt": 1032,
+		"stimulus": "../audio/43-8-fem.mp3",
+		"response": " ",
+		"word": "na",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 361,
+		"time_elapsed": 731855,
+		"internal_node_id": "0.0-3.0-1.296"
+	},
+	{
+		"rt": 2731,
+		"stimulus": "../audio/43-9-fem.mp3",
+		"response": " ",
+		"word": "casa.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 362,
+		"time_elapsed": 734936,
+		"internal_node_id": "0.0-3.0-1.297"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 363,
+		"time_elapsed": 736201,
+		"internal_node_id": "0.0-3.0-0.298-0.298"
+	},
+	{
+		"rt": 1141,
+		"stimulus": "../audio/44-1-masc.mp3",
+		"response": " ",
+		"word": "Meus",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 364,
+		"time_elapsed": 737695,
+		"internal_node_id": "0.0-3.0-1.298"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/44-2-masc.mp3",
+		"response": " ",
+		"word": "irmãos",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 365,
+		"time_elapsed": 739106,
+		"internal_node_id": "0.0-3.0-1.299"
+	},
+	{
+		"rt": 1189,
+		"stimulus": "../audio/44-3-masc.mp3",
+		"response": " ",
+		"word": "brigam",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 366,
+		"time_elapsed": 740620,
+		"internal_node_id": "0.0-3.0-1.300"
+	},
+	{
+		"rt": 931,
+		"stimulus": "../audio/44-4-masc.mp3",
+		"response": " ",
+		"word": "por",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 367,
+		"time_elapsed": 741891,
+		"internal_node_id": "0.0-3.0-1.301"
+	},
+	{
+		"rt": 1221,
+		"stimulus": "../audio/44-5-masc.mp3",
+		"response": " ",
+		"word": "bobagem",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 368,
+		"time_elapsed": 743447,
+		"internal_node_id": "0.0-3.0-1.302"
+	},
+	{
+		"rt": 931,
+		"stimulus": "../audio/44-6-masc.mp3",
+		"response": " ",
+		"word": "todos",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 369,
+		"time_elapsed": 744707,
+		"internal_node_id": "0.0-3.0-1.303"
+	},
+	{
+		"rt": 1269,
+		"stimulus": "../audio/44-7-masc.mp3",
+		"response": " ",
+		"word": "os",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 370,
+		"time_elapsed": 746295,
+		"internal_node_id": "0.0-3.0-1.304"
+	},
+	{
+		"rt": 2560,
+		"stimulus": "../audio/44-8-masc.mp3",
+		"response": " ",
+		"word": "dias.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 371,
+		"time_elapsed": 749186,
+		"internal_node_id": "0.0-3.0-1.305"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 372,
+		"time_elapsed": 750448,
+		"internal_node_id": "0.0-3.0-0.306-0.306"
+	},
+	{
+		"rt": 880,
+		"stimulus": "../audio/45-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 373,
+		"time_elapsed": 751688,
+		"internal_node_id": "0.0-3.0-1.306"
+	},
+	{
+		"rt": 971,
+		"stimulus": "../audio/45-2-fem.mp3",
+		"response": " ",
+		"word": "homem",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 374,
+		"time_elapsed": 752988,
+		"internal_node_id": "0.0-3.0-1.307"
+	},
+	{
+		"rt": 1168,
+		"stimulus": "../audio/45-3-fem.mp3",
+		"response": " ",
+		"word": "pagou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 375,
+		"time_elapsed": 754498,
+		"internal_node_id": "0.0-3.0-1.308"
+	},
+	{
+		"rt": 821,
+		"stimulus": "../audio/45-4-fem.mp3",
+		"response": " ",
+		"word": "o",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 376,
+		"time_elapsed": 755641,
+		"internal_node_id": "0.0-3.0-1.309"
+	},
+	{
+		"rt": 1411,
+		"stimulus": "../audio/45-5-fem.mp3",
+		"response": " ",
+		"word": "aluguel",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 377,
+		"time_elapsed": 757387,
+		"internal_node_id": "0.0-3.0-1.310"
+	},
+	{
+		"rt": 891,
+		"stimulus": "../audio/45-6-fem.mp3",
+		"response": " ",
+		"word": "com",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 378,
+		"time_elapsed": 758606,
+		"internal_node_id": "0.0-3.0-1.311"
+	},
+	{
+		"rt": 3288,
+		"stimulus": "../audio/45-7-fem.mp3",
+		"response": " ",
+		"word": "atraso.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 379,
+		"time_elapsed": 762224,
+		"internal_node_id": "0.0-3.0-1.312"
+	},
+	{
+		"rt": 3863,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">O homem pagou o aluguel em dia?</span>",
+		"response": "n",
+		"question": "O homem pagou o aluguel em dia?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 380,
+		"time_elapsed": 766339,
+		"internal_node_id": "0.0-3.0-2.312-0.312",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 381,
+		"time_elapsed": 767864,
+		"internal_node_id": "0.0-3.0-0.313-0.313"
+	},
+	{
+		"rt": 1072,
+		"stimulus": "../audio/16-1-fem.mp3",
+		"response": " ",
+		"word": "Eu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 382,
+		"time_elapsed": 769293,
+		"internal_node_id": "0.0-3.0-1.313"
+	},
+	{
+		"rt": 1400,
+		"stimulus": "../audio/16-2-fem.mp3",
+		"response": " ",
+		"word": "nunca",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 383,
+		"time_elapsed": 771035,
+		"internal_node_id": "0.0-3.0-1.314"
+	},
+	{
+		"rt": 1608,
+		"stimulus": "../audio/16-3-fem.mp3",
+		"response": " ",
+		"word": "conheci",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 384,
+		"time_elapsed": 772977,
+		"internal_node_id": "0.0-3.0-1.315"
+	},
+	{
+		"rt": 971,
+		"stimulus": "../audio/16-4-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 385,
+		"time_elapsed": 774268,
+		"internal_node_id": "0.0-3.0-1.316"
+	},
+	{
+		"rt": 1429,
+		"stimulus": "../audio/16-5-fem.mp3",
+		"response": " ",
+		"word": "general",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 386,
+		"time_elapsed": 776040,
+		"internal_node_id": "0.0-3.0-1.317"
+	},
+	{
+		"rt": 869,
+		"stimulus": "../audio/16-6-fem.mp3",
+		"response": " ",
+		"word": "do",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 387,
+		"time_elapsed": 777226,
+		"internal_node_id": "0.0-3.0-1.318"
+	},
+	{
+		"rt": 1309,
+		"stimulus": "../audio/16-7-fem.mp3",
+		"response": " ",
+		"word": "exército.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 388,
+		"time_elapsed": 778905,
+		"internal_node_id": "0.0-3.0-1.319"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 389,
+		"time_elapsed": 780173,
+		"internal_node_id": "0.0-3.0-0.320-0.320"
+	},
+	{
+		"rt": 1259,
+		"stimulus": "../audio/17-1-fem.mp3",
+		"response": " ",
+		"word": "Falaram",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 390,
+		"time_elapsed": 781827,
+		"internal_node_id": "0.0-3.0-1.320"
+	},
+	{
+		"rt": 861,
+		"stimulus": "../audio/17-2-fem.mp3",
+		"response": " ",
+		"word": "da",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 391,
+		"time_elapsed": 783007,
+		"internal_node_id": "0.0-3.0-1.321"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/17-3-fem.mp3",
+		"response": " ",
+		"word": "lei",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 392,
+		"time_elapsed": 784289,
+		"internal_node_id": "0.0-3.0-1.322"
+	},
+	{
+		"rt": 981,
+		"stimulus": "../audio/17-4-fem.mp3",
+		"response": " ",
+		"word": "no",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 393,
+		"time_elapsed": 785613,
+		"internal_node_id": "0.0-3.0-1.323"
+	},
+	{
+		"rt": 1608,
+		"stimulus": "../audio/17-5-fem.mp3",
+		"response": " ",
+		"word": "ministério",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 394,
+		"time_elapsed": 787578,
+		"internal_node_id": "0.0-3.0-1.324"
+	},
+	{
+		"rt": 1240,
+		"stimulus": "../audio/17-6-fem.mp3",
+		"response": " ",
+		"word": "diversas",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 395,
+		"time_elapsed": 789164,
+		"internal_node_id": "0.0-3.0-1.325"
+	},
+	{
+		"rt": 2701,
+		"stimulus": "../audio/17-7-fem.mp3",
+		"response": " ",
+		"word": "vezes.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 396,
+		"time_elapsed": 792204,
+		"internal_node_id": "0.0-3.0-1.326"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 397,
+		"time_elapsed": 793463,
+		"internal_node_id": "0.0-3.0-0.327-0.327"
+	},
+	{
+		"rt": 661,
+		"stimulus": "../audio/19-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 398,
+		"time_elapsed": 794493,
+		"internal_node_id": "0.0-3.0-1.327"
+	},
+	{
+		"rt": 1189,
+		"stimulus": "../audio/19-2-fem.mp3",
+		"response": " ",
+		"word": "menino",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 399,
+		"time_elapsed": 796037,
+		"internal_node_id": "0.0-3.0-1.328"
+	},
+	{
+		"rt": 1189,
+		"stimulus": "../audio/19-3-fem.mp3",
+		"response": " ",
+		"word": "ganhou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 400,
+		"time_elapsed": 797554,
+		"internal_node_id": "0.0-3.0-1.329"
+	},
+	{
+		"rt": 1008,
+		"stimulus": "../audio/19-4-fem.mp3",
+		"response": " ",
+		"word": "uma",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 401,
+		"time_elapsed": 798903,
+		"internal_node_id": "0.0-3.0-1.330"
+	},
+	{
+		"rt": 931,
+		"stimulus": "../audio/19-5-fem.mp3",
+		"response": " ",
+		"word": "bala",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 402,
+		"time_elapsed": 800157,
+		"internal_node_id": "0.0-3.0-1.331"
+	},
+	{
+		"rt": 1229,
+		"stimulus": "../audio/19-6-fem.mp3",
+		"response": " ",
+		"word": "depois",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 403,
+		"time_elapsed": 801747,
+		"internal_node_id": "0.0-3.0-1.332"
+	},
+	{
+		"rt": 949,
+		"stimulus": "../audio/19-7-fem.mp3",
+		"response": " ",
+		"word": "do",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 404,
+		"time_elapsed": 803018,
+		"internal_node_id": "0.0-3.0-1.333"
+	},
+	{
+		"rt": 2469,
+		"stimulus": "../audio/19-8-fem.mp3",
+		"response": " ",
+		"word": "almoço.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 405,
+		"time_elapsed": 805830,
+		"internal_node_id": "0.0-3.0-1.334"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 406,
+		"time_elapsed": 807105,
+		"internal_node_id": "0.0-3.0-0.335-0.335"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/18-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 407,
+		"time_elapsed": 808556,
+		"internal_node_id": "0.0-3.0-1.335"
+	},
+	{
+		"rt": 1219,
+		"stimulus": "../audio/18-2-fem.mp3",
+		"response": " ",
+		"word": "enredo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 408,
+		"time_elapsed": 810110,
+		"internal_node_id": "0.0-3.0-1.336"
+	},
+	{
+		"rt": 1008,
+		"stimulus": "../audio/18-3-fem.mp3",
+		"response": " ",
+		"word": "traz",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 409,
+		"time_elapsed": 811463,
+		"internal_node_id": "0.0-3.0-1.337"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/18-4-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 410,
+		"time_elapsed": 812708,
+		"internal_node_id": "0.0-3.0-1.338"
+	},
+	{
+		"rt": 1539,
+		"stimulus": "../audio/18-5-fem.mp3",
+		"response": " ",
+		"word": "dragão",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 411,
+		"time_elapsed": 814587,
+		"internal_node_id": "0.0-3.0-1.339"
+	},
+	{
+		"rt": 1019,
+		"stimulus": "../audio/18-6-fem.mp3",
+		"response": " ",
+		"word": "forte",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 412,
+		"time_elapsed": 815946,
+		"internal_node_id": "0.0-3.0-1.340"
+	},
+	{
+		"rt": 840,
+		"stimulus": "../audio/18-7-fem.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 413,
+		"time_elapsed": 817106,
+		"internal_node_id": "0.0-3.0-1.341"
+	},
+	{
+		"rt": 2419,
+		"stimulus": "../audio/18-8-fem.mp3",
+		"response": " ",
+		"word": "solitário.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 414,
+		"time_elapsed": 819875,
+		"internal_node_id": "0.0-3.0-1.342"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 415,
+		"time_elapsed": 821132,
+		"internal_node_id": "0.0-3.0-0.343-0.343"
+	},
+	{
+		"rt": 899,
+		"stimulus": "../audio/20-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 416,
+		"time_elapsed": 822388,
+		"internal_node_id": "0.0-3.0-1.343"
+	},
+	{
+		"rt": 1200,
+		"stimulus": "../audio/20-2-fem.mp3",
+		"response": " ",
+		"word": "colega",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 417,
+		"time_elapsed": 823921,
+		"internal_node_id": "0.0-3.0-1.344"
+	},
+	{
+		"rt": 1381,
+		"stimulus": "../audio/20-3-fem.mp3",
+		"response": " ",
+		"word": "parecia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 418,
+		"time_elapsed": 825653,
+		"internal_node_id": "0.0-3.0-1.345"
+	},
+	{
+		"rt": 1091,
+		"stimulus": "../audio/20-4-fem.mp3",
+		"response": " ",
+		"word": "muito",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 419,
+		"time_elapsed": 827073,
+		"internal_node_id": "0.0-3.0-1.346"
+	},
+	{
+		"rt": 1661,
+		"stimulus": "../audio/20-5-fem.mp3",
+		"response": " ",
+		"word": "gripado",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 420,
+		"time_elapsed": 829092,
+		"internal_node_id": "0.0-3.0-1.347"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/20-6-fem.mp3",
+		"response": " ",
+		"word": "no",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 421,
+		"time_elapsed": 830492,
+		"internal_node_id": "0.0-3.0-1.348"
+	},
+	{
+		"rt": 992,
+		"stimulus": "../audio/20-7-fem.mp3",
+		"response": " ",
+		"word": "dia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 422,
+		"time_elapsed": 831816,
+		"internal_node_id": "0.0-3.0-1.349"
+	},
+	{
+		"rt": 2971,
+		"stimulus": "../audio/20-8-fem.mp3",
+		"response": " ",
+		"word": "anterior.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 423,
+		"time_elapsed": 835135,
+		"internal_node_id": "0.0-3.0-1.350"
+	},
+	{
+		"rt": 3172,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">O colega parecia muito gripado?</span>",
+		"response": "s",
+		"question": "O colega parecia muito gripado?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 424,
+		"time_elapsed": 838569,
+		"internal_node_id": "0.0-3.0-2.350-0.350",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 425,
+		"time_elapsed": 840103,
+		"internal_node_id": "0.0-3.0-0.351-0.351"
+	},
+	{
+		"rt": 992,
+		"stimulus": "../audio/49-1-fem.mp3",
+		"response": " ",
+		"word": "Eu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 426,
+		"time_elapsed": 841451,
+		"internal_node_id": "0.0-3.0-1.351"
+	},
+	{
+		"rt": 1251,
+		"stimulus": "../audio/49-2-fem.mp3",
+		"response": " ",
+		"word": "quero",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 427,
+		"time_elapsed": 843040,
+		"internal_node_id": "0.0-3.0-1.352"
+	},
+	{
+		"rt": 968,
+		"stimulus": "../audio/49-3-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 428,
+		"time_elapsed": 844337,
+		"internal_node_id": "0.0-3.0-1.353"
+	},
+	{
+		"rt": 1251,
+		"stimulus": "../audio/49-4-fem.mp3",
+		"response": " ",
+		"word": "lanche",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 429,
+		"time_elapsed": 845935,
+		"internal_node_id": "0.0-3.0-1.354"
+	},
+	{
+		"rt": 1571,
+		"stimulus": "../audio/49-5-fem.mp3",
+		"response": " ",
+		"word": "duplo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 430,
+		"time_elapsed": 847828,
+		"internal_node_id": "0.0-3.0-1.355"
+	},
+	{
+		"rt": 819,
+		"stimulus": "../audio/49-6-fem.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 431,
+		"time_elapsed": 848983,
+		"internal_node_id": "0.0-3.0-1.356"
+	},
+	{
+		"rt": 829,
+		"stimulus": "../audio/49-7-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 432,
+		"time_elapsed": 850137,
+		"internal_node_id": "0.0-3.0-1.357"
+	},
+	{
+		"rt": 2669,
+		"stimulus": "../audio/49-8-fem.mp3",
+		"response": " ",
+		"word": "suco.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 433,
+		"time_elapsed": 853153,
+		"internal_node_id": "0.0-3.0-1.358"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 434,
+		"time_elapsed": 854433,
+		"internal_node_id": "0.0-3.0-0.359-0.359"
+	},
+	{
+		"rt": 800,
+		"stimulus": "../audio/47-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 435,
+		"time_elapsed": 855630,
+		"internal_node_id": "0.0-3.0-1.359"
+	},
+	{
+		"rt": 888,
+		"stimulus": "../audio/47-2-masc.mp3",
+		"response": " ",
+		"word": "tio",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 436,
+		"time_elapsed": 856866,
+		"internal_node_id": "0.0-3.0-1.360"
+	},
+	{
+		"rt": 1229,
+		"stimulus": "../audio/47-3-masc.mp3",
+		"response": " ",
+		"word": "recusou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 437,
+		"time_elapsed": 858440,
+		"internal_node_id": "0.0-3.0-1.361"
+	},
+	{
+		"rt": 859,
+		"stimulus": "../audio/47-4-masc.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 438,
+		"time_elapsed": 859636,
+		"internal_node_id": "0.0-3.0-1.362"
+	},
+	{
+		"rt": 1229,
+		"stimulus": "../audio/47-5-masc.mp3",
+		"response": " ",
+		"word": "sobremesa",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 439,
+		"time_elapsed": 861203,
+		"internal_node_id": "0.0-3.0-1.363"
+	},
+	{
+		"rt": 861,
+		"stimulus": "../audio/47-6-masc.mp3",
+		"response": " ",
+		"word": "no",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 440,
+		"time_elapsed": 862403,
+		"internal_node_id": "0.0-3.0-1.364"
+	},
+	{
+		"rt": 4520,
+		"stimulus": "../audio/47-7-masc.mp3",
+		"response": " ",
+		"word": "almoço.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 441,
+		"time_elapsed": 867267,
+		"internal_node_id": "0.0-3.0-1.365"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 442,
+		"time_elapsed": 868540,
+		"internal_node_id": "0.0-3.0-0.366-0.366"
+	},
+	{
+		"rt": 909,
+		"stimulus": "../audio/46-1-masc.mp3",
+		"response": " ",
+		"word": "Meu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 443,
+		"time_elapsed": 869827,
+		"internal_node_id": "0.0-3.0-1.366"
+	},
+	{
+		"rt": 891,
+		"stimulus": "../audio/46-2-masc.mp3",
+		"response": " ",
+		"word": "primo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 444,
+		"time_elapsed": 871044,
+		"internal_node_id": "0.0-3.0-1.367"
+	},
+	{
+		"rt": 1019,
+		"stimulus": "../audio/46-3-masc.mp3",
+		"response": " ",
+		"word": "estava",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 445,
+		"time_elapsed": 872431,
+		"internal_node_id": "0.0-3.0-1.368"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/46-4-masc.mp3",
+		"response": " ",
+		"word": "muito",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 446,
+		"time_elapsed": 873696,
+		"internal_node_id": "0.0-3.0-1.369"
+	},
+	{
+		"rt": 1251,
+		"stimulus": "../audio/46-5-masc.mp3",
+		"response": " ",
+		"word": "deprimido",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 447,
+		"time_elapsed": 875287,
+		"internal_node_id": "0.0-3.0-1.370"
+	},
+	{
+		"rt": 901,
+		"stimulus": "../audio/46-6-masc.mp3",
+		"response": " ",
+		"word": "no",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 448,
+		"time_elapsed": 876517,
+		"internal_node_id": "0.0-3.0-1.371"
+	},
+	{
+		"rt": 3472,
+		"stimulus": "../audio/46-7-masc.mp3",
+		"response": " ",
+		"word": "inverno.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 449,
+		"time_elapsed": 880327,
+		"internal_node_id": "0.0-3.0-1.372"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 450,
+		"time_elapsed": 881605,
+		"internal_node_id": "0.0-3.0-0.373-0.373"
+	},
+	{
+		"rt": 880,
+		"stimulus": "../audio/48-1-masc.mp3",
+		"response": " ",
+		"word": "Ela",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 451,
+		"time_elapsed": 882856,
+		"internal_node_id": "0.0-3.0-1.373"
+	},
+	{
+		"rt": 979,
+		"stimulus": "../audio/48-2-masc.mp3",
+		"response": " ",
+		"word": "come",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 452,
+		"time_elapsed": 884189,
+		"internal_node_id": "0.0-3.0-1.374"
+	},
+	{
+		"rt": 941,
+		"stimulus": "../audio/48-3-masc.mp3",
+		"response": " ",
+		"word": "feijão",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 453,
+		"time_elapsed": 885486,
+		"internal_node_id": "0.0-3.0-1.375"
+	},
+	{
+		"rt": 901,
+		"stimulus": "../audio/48-4-masc.mp3",
+		"response": " ",
+		"word": "com",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 454,
+		"time_elapsed": 886721,
+		"internal_node_id": "0.0-3.0-1.376"
+	},
+	{
+		"rt": 1048,
+		"stimulus": "../audio/48-5-masc.mp3",
+		"response": " ",
+		"word": "arroz",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 455,
+		"time_elapsed": 888097,
+		"internal_node_id": "0.0-3.0-1.377"
+	},
+	{
+		"rt": 880,
+		"stimulus": "../audio/48-6-masc.mp3",
+		"response": " ",
+		"word": "todos",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 456,
+		"time_elapsed": 889310,
+		"internal_node_id": "0.0-3.0-1.378"
+	},
+	{
+		"rt": 811,
+		"stimulus": "../audio/48-7-masc.mp3",
+		"response": " ",
+		"word": "os",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 457,
+		"time_elapsed": 890448,
+		"internal_node_id": "0.0-3.0-1.379"
+	},
+	{
+		"rt": 1741,
+		"stimulus": "../audio/48-8-masc.mp3",
+		"response": " ",
+		"word": "dias.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 458,
+		"time_elapsed": 892526,
+		"internal_node_id": "0.0-3.0-1.380"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 459,
+		"time_elapsed": 893801,
+		"internal_node_id": "0.0-3.0-0.381-0.381"
+	},
+	{
+		"rt": 979,
+		"stimulus": "../audio/50-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 460,
+		"time_elapsed": 895137,
+		"internal_node_id": "0.0-3.0-1.381"
+	},
+	{
+		"rt": 1211,
+		"stimulus": "../audio/50-2-fem.mp3",
+		"response": " ",
+		"word": "pássaro",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 461,
+		"time_elapsed": 896691,
+		"internal_node_id": "0.0-3.0-1.382"
+	},
+	{
+		"rt": 1131,
+		"stimulus": "../audio/50-3-fem.mp3",
+		"response": " ",
+		"word": "fugiu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 462,
+		"time_elapsed": 898150,
+		"internal_node_id": "0.0-3.0-1.383"
+	},
+	{
+		"rt": 781,
+		"stimulus": "../audio/50-4-fem.mp3",
+		"response": " ",
+		"word": "da",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 463,
+		"time_elapsed": 899286,
+		"internal_node_id": "0.0-3.0-1.384"
+	},
+	{
+		"rt": 1200,
+		"stimulus": "../audio/50-5-fem.mp3",
+		"response": " ",
+		"word": "gaiola",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 464,
+		"time_elapsed": 900817,
+		"internal_node_id": "0.0-3.0-1.385"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/50-6-fem.mp3",
+		"response": " ",
+		"word": "pela",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 465,
+		"time_elapsed": 902076,
+		"internal_node_id": "0.0-3.0-1.386"
+	},
+	{
+		"rt": 1440,
+		"stimulus": "../audio/50-7-fem.mp3",
+		"response": " ",
+		"word": "portinhola.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 466,
+		"time_elapsed": 903868,
+		"internal_node_id": "0.0-3.0-1.387"
+	},
+	{
+		"rt": 2534,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">O pássaro fugiu da gaiola?</span>",
+		"response": "s",
+		"question": "O pássaro fugiu da gaiola?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 467,
+		"time_elapsed": 906661,
+		"internal_node_id": "0.0-3.0-2.387-0.387",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 468,
+		"time_elapsed": 908193,
+		"internal_node_id": "0.0-3.0-0.388-0.388"
+	},
+	{
+		"rt": 1109,
+		"stimulus": "../audio/24-1-masc.mp3",
+		"response": " ",
+		"word": "As",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 469,
+		"time_elapsed": 909671,
+		"internal_node_id": "0.0-3.0-1.388"
+	},
+	{
+		"rt": 1109,
+		"stimulus": "../audio/24-2-masc.mp3",
+		"response": " ",
+		"word": "crianças",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 470,
+		"time_elapsed": 911117,
+		"internal_node_id": "0.0-3.0-1.389"
+	},
+	{
+		"rt": 1088,
+		"stimulus": "../audio/24-3-masc.mp3",
+		"response": " ",
+		"word": "vão",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 471,
+		"time_elapsed": 912536,
+		"internal_node_id": "0.0-3.0-1.390"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/24-4-masc.mp3",
+		"response": " ",
+		"word": "ao",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 472,
+		"time_elapsed": 913837,
+		"internal_node_id": "0.0-3.0-1.391"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/24-5-masc.mp3",
+		"response": " ",
+		"word": "cinema",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 473,
+		"time_elapsed": 915251,
+		"internal_node_id": "0.0-3.0-1.392"
+	},
+	{
+		"rt": 1011,
+		"stimulus": "../audio/24-6-masc.mp3",
+		"response": " ",
+		"word": "mais",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 474,
+		"time_elapsed": 916588,
+		"internal_node_id": "0.0-3.0-1.393"
+	},
+	{
+		"rt": 1189,
+		"stimulus": "../audio/24-7-masc.mp3",
+		"response": " ",
+		"word": "tarde.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 475,
+		"time_elapsed": 918121,
+		"internal_node_id": "0.0-3.0-1.394"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 476,
+		"time_elapsed": 919394,
+		"internal_node_id": "0.0-3.0-0.395-0.395"
+	},
+	{
+		"rt": 1360,
+		"stimulus": "../audio/22-1-masc.mp3",
+		"response": " ",
+		"word": "Eu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 477,
+		"time_elapsed": 921110,
+		"internal_node_id": "0.0-3.0-1.395"
+	},
+	{
+		"rt": 1520,
+		"stimulus": "../audio/22-2-masc.mp3",
+		"response": " ",
+		"word": "detesto",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 478,
+		"time_elapsed": 922971,
+		"internal_node_id": "0.0-3.0-1.396"
+	},
+	{
+		"rt": 1211,
+		"stimulus": "../audio/22-3-masc.mp3",
+		"response": " ",
+		"word": "fumaça",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 479,
+		"time_elapsed": 924523,
+		"internal_node_id": "0.0-3.0-1.397"
+	},
+	{
+		"rt": 832,
+		"stimulus": "../audio/22-4-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 480,
+		"time_elapsed": 925692,
+		"internal_node_id": "0.0-3.0-1.398"
+	},
+	{
+		"rt": 1272,
+		"stimulus": "../audio/22-5-masc.mp3",
+		"response": " ",
+		"word": "cachimbo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 481,
+		"time_elapsed": 927288,
+		"internal_node_id": "0.0-3.0-1.399"
+	},
+	{
+		"rt": 949,
+		"stimulus": "../audio/22-6-masc.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 482,
+		"time_elapsed": 928585,
+		"internal_node_id": "0.0-3.0-1.400"
+	},
+	{
+		"rt": 979,
+		"stimulus": "../audio/22-7-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 483,
+		"time_elapsed": 929915,
+		"internal_node_id": "0.0-3.0-1.401"
+	},
+	{
+		"rt": 2120,
+		"stimulus": "../audio/22-8-masc.mp3",
+		"response": " ",
+		"word": "cigarro.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 484,
+		"time_elapsed": 932374,
+		"internal_node_id": "0.0-3.0-1.402"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 485,
+		"time_elapsed": 933646,
+		"internal_node_id": "0.0-3.0-0.403-0.403"
+	},
+	{
+		"rt": 1221,
+		"stimulus": "../audio/21-1-masc.mp3",
+		"response": " ",
+		"word": "Precisamos",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 486,
+		"time_elapsed": 935247,
+		"internal_node_id": "0.0-3.0-1.403"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/21-2-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 487,
+		"time_elapsed": 936516,
+		"internal_node_id": "0.0-3.0-1.404"
+	},
+	{
+		"rt": 1592,
+		"stimulus": "../audio/21-3-masc.mp3",
+		"response": " ",
+		"word": "paciência",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 488,
+		"time_elapsed": 938449,
+		"internal_node_id": "0.0-3.0-1.405"
+	},
+	{
+		"rt": 1021,
+		"stimulus": "../audio/21-4-masc.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 489,
+		"time_elapsed": 939805,
+		"internal_node_id": "0.0-3.0-1.406"
+	},
+	{
+		"rt": 1480,
+		"stimulus": "../audio/21-5-masc.mp3",
+		"response": " ",
+		"word": "bondade",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 490,
+		"time_elapsed": 941620,
+		"internal_node_id": "0.0-3.0-1.407"
+	},
+	{
+		"rt": 1149,
+		"stimulus": "../audio/21-6-masc.mp3",
+		"response": " ",
+		"word": "para",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 491,
+		"time_elapsed": 943112,
+		"internal_node_id": "0.0-3.0-1.408"
+	},
+	{
+		"rt": 971,
+		"stimulus": "../audio/21-7-masc.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 492,
+		"time_elapsed": 944398,
+		"internal_node_id": "0.0-3.0-1.409"
+	},
+	{
+		"rt": 1131,
+		"stimulus": "../audio/21-8-masc.mp3",
+		"response": " ",
+		"word": "mundo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 493,
+		"time_elapsed": 945871,
+		"internal_node_id": "0.0-3.0-1.410"
+	},
+	{
+		"rt": 3589,
+		"stimulus": "../audio/21-9-masc.mp3",
+		"response": " ",
+		"word": "melhor.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 494,
+		"time_elapsed": 949786,
+		"internal_node_id": "0.0-3.0-1.411"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 495,
+		"time_elapsed": 951057,
+		"internal_node_id": "0.0-3.0-0.412-0.412"
+	},
+	{
+		"rt": 1949,
+		"stimulus": "../audio/23-1-fem.mp3",
+		"response": " ",
+		"word": "Português",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 496,
+		"time_elapsed": 953392,
+		"internal_node_id": "0.0-3.0-1.412"
+	},
+	{
+		"rt": 869,
+		"stimulus": "../audio/23-2-fem.mp3",
+		"response": " ",
+		"word": "é",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 497,
+		"time_elapsed": 954628,
+		"internal_node_id": "0.0-3.0-1.413"
+	},
+	{
+		"rt": 1040,
+		"stimulus": "../audio/23-3-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 498,
+		"time_elapsed": 955990,
+		"internal_node_id": "0.0-3.0-1.414"
+	},
+	{
+		"rt": 1269,
+		"stimulus": "../audio/23-4-fem.mp3",
+		"response": " ",
+		"word": "assunto",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 499,
+		"time_elapsed": 957603,
+		"internal_node_id": "0.0-3.0-1.415"
+	},
+	{
+		"rt": 1741,
+		"stimulus": "../audio/23-5-fem.mp3",
+		"response": " ",
+		"word": "elementar",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 500,
+		"time_elapsed": 959693,
+		"internal_node_id": "0.0-3.0-1.416"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/23-6-fem.mp3",
+		"response": " ",
+		"word": "para",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 501,
+		"time_elapsed": 961024,
+		"internal_node_id": "0.0-3.0-1.417"
+	},
+	{
+		"rt": 931,
+		"stimulus": "../audio/23-7-fem.mp3",
+		"response": " ",
+		"word": "os",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 502,
+		"time_elapsed": 962296,
+		"internal_node_id": "0.0-3.0-1.418"
+	},
+	{
+		"rt": 3051,
+		"stimulus": "../audio/23-8-fem.mp3",
+		"response": " ",
+		"word": "alunos.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 503,
+		"time_elapsed": 965696,
+		"internal_node_id": "0.0-3.0-1.419"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 504,
+		"time_elapsed": 966966,
+		"internal_node_id": "0.0-3.0-0.420-0.420"
+	},
+	{
+		"rt": 941,
+		"stimulus": "../audio/25-1-fem.mp3",
+		"response": " ",
+		"word": "Ela",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 505,
+		"time_elapsed": 968292,
+		"internal_node_id": "0.0-3.0-1.420"
+	},
+	{
+		"rt": 1069,
+		"stimulus": "../audio/25-2-fem.mp3",
+		"response": " ",
+		"word": "faz",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 506,
+		"time_elapsed": 969704,
+		"internal_node_id": "0.0-3.0-1.421"
+	},
+	{
+		"rt": 1099,
+		"stimulus": "../audio/25-3-fem.mp3",
+		"response": " ",
+		"word": "tanto",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 507,
+		"time_elapsed": 971138,
+		"internal_node_id": "0.0-3.0-1.422"
+	},
+	{
+		"rt": 1101,
+		"stimulus": "../audio/25-4-fem.mp3",
+		"response": " ",
+		"word": "cabelo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 508,
+		"time_elapsed": 972574,
+		"internal_node_id": "0.0-3.0-1.423"
+	},
+	{
+		"rt": 1021,
+		"stimulus": "../audio/25-5-fem.mp3",
+		"response": " ",
+		"word": "liso",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 509,
+		"time_elapsed": 973932,
+		"internal_node_id": "0.0-3.0-1.424"
+	},
+	{
+		"rt": 1032,
+		"stimulus": "../audio/25-6-fem.mp3",
+		"response": " ",
+		"word": "quanto",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 510,
+		"time_elapsed": 975292,
+		"internal_node_id": "0.0-3.0-1.425"
+	},
+	{
+		"rt": 2781,
+		"stimulus": "../audio/25-7-fem.mp3",
+		"response": " ",
+		"word": "cacheado.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 511,
+		"time_elapsed": 978406,
+		"internal_node_id": "0.0-3.0-1.426"
+	},
+	{
+		"rt": 4491,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">Ela só faz cabelo cacheado?</span>",
+		"response": "n",
+		"question": "Ela só faz cabelo cacheado?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 512,
+		"time_elapsed": 983166,
+		"internal_node_id": "0.0-3.0-2.426-0.426",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 513,
+		"time_elapsed": 984694,
+		"internal_node_id": "0.0-3.0-0.427-0.427"
+	},
+	{
+		"rt": 1088,
+		"stimulus": "../audio/62-1-masc.mp3",
+		"response": " ",
+		"word": "As",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 514,
+		"time_elapsed": 986137,
+		"internal_node_id": "0.0-3.0-1.427"
+	},
+	{
+		"rt": 1640,
+		"stimulus": "../audio/62-2-masc.mp3",
+		"response": " ",
+		"word": "artesãs",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 515,
+		"time_elapsed": 988126,
+		"internal_node_id": "0.0-3.0-1.428"
+	},
+	{
+		"rt": 1211,
+		"stimulus": "../audio/62-3-masc.mp3",
+		"response": " ",
+		"word": "gostam",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 516,
+		"time_elapsed": 989674,
+		"internal_node_id": "0.0-3.0-1.429"
+	},
+	{
+		"rt": 939,
+		"stimulus": "../audio/62-4-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 517,
+		"time_elapsed": 990995,
+		"internal_node_id": "0.0-3.0-1.430"
+	},
+	{
+		"rt": 1771,
+		"stimulus": "../audio/62-5-masc.mp3",
+		"response": " ",
+		"word": "maquiagem",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 518,
+		"time_elapsed": 993112,
+		"internal_node_id": "0.0-3.0-1.431"
+	},
+	{
+		"rt": 891,
+		"stimulus": "../audio/62-6-masc.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 519,
+		"time_elapsed": 994361,
+		"internal_node_id": "0.0-3.0-1.432"
+	},
+	{
+		"rt": 1008,
+		"stimulus": "../audio/62-7-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 520,
+		"time_elapsed": 995702,
+		"internal_node_id": "0.0-3.0-1.433"
+	},
+	{
+		"rt": 1851,
+		"stimulus": "../audio/62-8-masc.mp3",
+		"response": " ",
+		"word": "crochê.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 521,
+		"time_elapsed": 997891,
+		"internal_node_id": "0.0-3.0-1.434"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 522,
+		"time_elapsed": 999170,
+		"internal_node_id": "0.0-3.0-0.435-0.435"
+	},
+	{
+		"rt": 829,
+		"stimulus": "../audio/63-1-fem.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 523,
+		"time_elapsed": 1000403,
+		"internal_node_id": "0.0-3.0-1.435"
+	},
+	{
+		"rt": 1059,
+		"stimulus": "../audio/63-2-fem.mp3",
+		"response": " ",
+		"word": "chuva",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 524,
+		"time_elapsed": 1001787,
+		"internal_node_id": "0.0-3.0-1.436"
+	},
+	{
+		"rt": 1208,
+		"stimulus": "../audio/63-3-fem.mp3",
+		"response": " ",
+		"word": "entrou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 525,
+		"time_elapsed": 1003339,
+		"internal_node_id": "0.0-3.0-1.437"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/63-4-fem.mp3",
+		"response": " ",
+		"word": "pela",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 526,
+		"time_elapsed": 1004592,
+		"internal_node_id": "0.0-3.0-1.438"
+	},
+	{
+		"rt": 1579,
+		"stimulus": "../audio/63-5-fem.mp3",
+		"response": " ",
+		"word": "abertura",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 527,
+		"time_elapsed": 1006507,
+		"internal_node_id": "0.0-3.0-1.439"
+	},
+	{
+		"rt": 971,
+		"stimulus": "../audio/63-6-fem.mp3",
+		"response": " ",
+		"word": "na",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 528,
+		"time_elapsed": 1007814,
+		"internal_node_id": "0.0-3.0-1.440"
+	},
+	{
+		"rt": 2000,
+		"stimulus": "../audio/63-7-fem.mp3",
+		"response": " ",
+		"word": "janela.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 529,
+		"time_elapsed": 1010168,
+		"internal_node_id": "0.0-3.0-1.441"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 530,
+		"time_elapsed": 1011444,
+		"internal_node_id": "0.0-3.0-0.442-0.442"
+	},
+	{
+		"rt": 1219,
+		"stimulus": "../audio/61-1-fem.mp3",
+		"response": " ",
+		"word": "Aquele",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 531,
+		"time_elapsed": 1013016,
+		"internal_node_id": "0.0-3.0-1.442"
+	},
+	{
+		"rt": 1299,
+		"stimulus": "../audio/61-2-fem.mp3",
+		"response": " ",
+		"word": "senhor",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 532,
+		"time_elapsed": 1014657,
+		"internal_node_id": "0.0-3.0-1.443"
+	},
+	{
+		"rt": 891,
+		"stimulus": "../audio/61-3-fem.mp3",
+		"response": " ",
+		"word": "é",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 533,
+		"time_elapsed": 1015872,
+		"internal_node_id": "0.0-3.0-1.444"
+	},
+	{
+		"rt": 1200,
+		"stimulus": "../audio/61-4-fem.mp3",
+		"response": " ",
+		"word": "muito",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 534,
+		"time_elapsed": 1017416,
+		"internal_node_id": "0.0-3.0-1.445"
+	},
+	{
+		"rt": 1480,
+		"stimulus": "../audio/61-5-fem.mp3",
+		"response": " ",
+		"word": "sovina",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 535,
+		"time_elapsed": 1019251,
+		"internal_node_id": "0.0-3.0-1.446"
+	},
+	{
+		"rt": 872,
+		"stimulus": "../audio/61-6-fem.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 536,
+		"time_elapsed": 1020450,
+		"internal_node_id": "0.0-3.0-1.447"
+	},
+	{
+		"rt": 1971,
+		"stimulus": "../audio/61-7-fem.mp3",
+		"response": " ",
+		"word": "inflexível.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 537,
+		"time_elapsed": 1022765,
+		"internal_node_id": "0.0-3.0-1.448"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 538,
+		"time_elapsed": 1024043,
+		"internal_node_id": "0.0-3.0-0.449-0.449"
+	},
+	{
+		"rt": 1379,
+		"stimulus": "../audio/64-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 539,
+		"time_elapsed": 1025792,
+		"internal_node_id": "0.0-3.0-1.449"
+	},
+	{
+		"rt": 1099,
+		"stimulus": "../audio/64-2-masc.mp3",
+		"response": " ",
+		"word": "dia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 540,
+		"time_elapsed": 1027217,
+		"internal_node_id": "0.0-3.0-1.450"
+	},
+	{
+		"rt": 1371,
+		"stimulus": "../audio/64-3-masc.mp3",
+		"response": " ",
+		"word": "começou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 541,
+		"time_elapsed": 1028911,
+		"internal_node_id": "0.0-3.0-1.451"
+	},
+	{
+		"rt": 931,
+		"stimulus": "../audio/64-4-masc.mp3",
+		"response": " ",
+		"word": "com",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 542,
+		"time_elapsed": 1030165,
+		"internal_node_id": "0.0-3.0-1.452"
+	},
+	{
+		"rt": 1240,
+		"stimulus": "../audio/64-5-masc.mp3",
+		"response": " ",
+		"word": "garoa",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 543,
+		"time_elapsed": 1031732,
+		"internal_node_id": "0.0-3.0-1.453"
+	},
+	{
+		"rt": 1200,
+		"stimulus": "../audio/64-6-masc.mp3",
+		"response": " ",
+		"word": "gelada",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 544,
+		"time_elapsed": 1033268,
+		"internal_node_id": "0.0-3.0-1.454"
+	},
+	{
+		"rt": 869,
+		"stimulus": "../audio/64-7-masc.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 545,
+		"time_elapsed": 1034462,
+		"internal_node_id": "0.0-3.0-1.455"
+	},
+	{
+		"rt": 2960,
+		"stimulus": "../audio/64-8-masc.mp3",
+		"response": " ",
+		"word": "leve.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 546,
+		"time_elapsed": 1037772,
+		"internal_node_id": "0.0-3.0-1.456"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 547,
+		"time_elapsed": 1039052,
+		"internal_node_id": "0.0-3.0-0.457-0.457"
+	},
+	{
+		"rt": 931,
+		"stimulus": "../audio/65-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 548,
+		"time_elapsed": 1040353,
+		"internal_node_id": "0.0-3.0-1.457"
+	},
+	{
+		"rt": 1181,
+		"stimulus": "../audio/65-2-masc.mp3",
+		"response": " ",
+		"word": "fantasma",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 549,
+		"time_elapsed": 1041886,
+		"internal_node_id": "0.0-3.0-1.458"
+	},
+	{
+		"rt": 1029,
+		"stimulus": "../audio/65-3-masc.mp3",
+		"response": " ",
+		"word": "veio",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 550,
+		"time_elapsed": 1043245,
+		"internal_node_id": "0.0-3.0-1.459"
+	},
+	{
+		"rt": 891,
+		"stimulus": "../audio/65-4-masc.mp3",
+		"response": " ",
+		"word": "da",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 551,
+		"time_elapsed": 1044468,
+		"internal_node_id": "0.0-3.0-1.460"
+	},
+	{
+		"rt": 1360,
+		"stimulus": "../audio/65-5-masc.mp3",
+		"response": " ",
+		"word": "escuridão",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 552,
+		"time_elapsed": 1046187,
+		"internal_node_id": "0.0-3.0-1.461"
+	},
+	{
+		"rt": 891,
+		"stimulus": "../audio/65-6-masc.mp3",
+		"response": " ",
+		"word": "do",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 553,
+		"time_elapsed": 1047415,
+		"internal_node_id": "0.0-3.0-1.462"
+	},
+	{
+		"rt": 2099,
+		"stimulus": "../audio/65-7-masc.mp3",
+		"response": " ",
+		"word": "armário.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 554,
+		"time_elapsed": 1049862,
+		"internal_node_id": "0.0-3.0-1.463"
+	},
+	{
+		"rt": 3300,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">O fantasma veio da escuridão do armário?</span>",
+		"response": "s",
+		"question": "O fantasma veio da escuridão do armário?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 555,
+		"time_elapsed": 1053422,
+		"internal_node_id": "0.0-3.0-2.463-0.463",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 556,
+		"time_elapsed": 1054944,
+		"internal_node_id": "0.0-3.0-0.464-0.464"
+	},
+	{
+		"rt": 981,
+		"stimulus": "../audio/72-1-fem.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 557,
+		"time_elapsed": 1056286,
+		"internal_node_id": "0.0-3.0-1.464"
+	},
+	{
+		"rt": 1669,
+		"stimulus": "../audio/72-2-fem.mp3",
+		"response": " ",
+		"word": "vencedora",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 558,
+		"time_elapsed": 1058318,
+		"internal_node_id": "0.0-3.0-1.465"
+	},
+	{
+		"rt": 1120,
+		"stimulus": "../audio/72-3-fem.mp3",
+		"response": " ",
+		"word": "recebeu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 559,
+		"time_elapsed": 1059826,
+		"internal_node_id": "0.0-3.0-1.466"
+	},
+	{
+		"rt": 952,
+		"stimulus": "../audio/72-4-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 560,
+		"time_elapsed": 1061088,
+		"internal_node_id": "0.0-3.0-1.467"
+	},
+	{
+		"rt": 600,
+		"stimulus": "../audio/72-5-fem.mp3",
+		"response": " ",
+		"word": "prêmio",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 561,
+		"time_elapsed": 1062026,
+		"internal_node_id": "0.0-3.0-1.468"
+	},
+	{
+		"rt": 1019,
+		"stimulus": "../audio/72-6-fem.mp3",
+		"response": " ",
+		"word": "em",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 562,
+		"time_elapsed": 1063383,
+		"internal_node_id": "0.0-3.0-1.469"
+	},
+	{
+		"rt": 1051,
+		"stimulus": "../audio/72-7-fem.mp3",
+		"response": " ",
+		"word": "dinheiro.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 563,
+		"time_elapsed": 1064772,
+		"internal_node_id": "0.0-3.0-1.470"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 564,
+		"time_elapsed": 1066039,
+		"internal_node_id": "0.0-3.0-0.471-0.471"
+	},
+	{
+		"rt": 709,
+		"stimulus": "../audio/74-1-masc.mp3",
+		"response": " ",
+		"word": "Este",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 565,
+		"time_elapsed": 1067116,
+		"internal_node_id": "0.0-3.0-1.471"
+	},
+	{
+		"rt": 792,
+		"stimulus": "../audio/74-2-masc.mp3",
+		"response": " ",
+		"word": "emprego",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 566,
+		"time_elapsed": 1068252,
+		"internal_node_id": "0.0-3.0-1.472"
+	},
+	{
+		"rt": 648,
+		"stimulus": "../audio/74-3-masc.mp3",
+		"response": " ",
+		"word": "é",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 567,
+		"time_elapsed": 1069225,
+		"internal_node_id": "0.0-3.0-1.473"
+	},
+	{
+		"rt": 589,
+		"stimulus": "../audio/74-4-masc.mp3",
+		"response": " ",
+		"word": "muito",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 568,
+		"time_elapsed": 1070148,
+		"internal_node_id": "0.0-3.0-1.474"
+	},
+	{
+		"rt": 1560,
+		"stimulus": "../audio/74-5-masc.mp3",
+		"response": " ",
+		"word": "cansativo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 569,
+		"time_elapsed": 1072056,
+		"internal_node_id": "0.0-3.0-1.475"
+	},
+	{
+		"rt": 749,
+		"stimulus": "../audio/74-6-masc.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 570,
+		"time_elapsed": 1073139,
+		"internal_node_id": "0.0-3.0-1.476"
+	},
+	{
+		"rt": 811,
+		"stimulus": "../audio/74-7-masc.mp3",
+		"response": " ",
+		"word": "longo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 571,
+		"time_elapsed": 1074294,
+		"internal_node_id": "0.0-3.0-1.477"
+	},
+	{
+		"rt": 651,
+		"stimulus": "../audio/74-8-masc.mp3",
+		"response": " ",
+		"word": "prazo.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 572,
+		"time_elapsed": 1075285,
+		"internal_node_id": "0.0-3.0-1.478"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 573,
+		"time_elapsed": 1076564,
+		"internal_node_id": "0.0-3.0-0.479-0.479"
+	},
+	{
+		"rt": 891,
+		"stimulus": "../audio/71-1-fem.mp3",
+		"response": " ",
+		"word": "Minhas",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 574,
+		"time_elapsed": 1077805,
+		"internal_node_id": "0.0-3.0-1.479"
+	},
+	{
+		"rt": 1019,
+		"stimulus": "../audio/71-2-fem.mp3",
+		"response": " ",
+		"word": "comidas",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 575,
+		"time_elapsed": 1079139,
+		"internal_node_id": "0.0-3.0-1.480"
+	},
+	{
+		"rt": 851,
+		"stimulus": "../audio/71-3-fem.mp3",
+		"response": " ",
+		"word": "favoritas",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 576,
+		"time_elapsed": 1080353,
+		"internal_node_id": "0.0-3.0-1.481"
+	},
+	{
+		"rt": 1101,
+		"stimulus": "../audio/71-4-fem.mp3",
+		"response": " ",
+		"word": "são",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 577,
+		"time_elapsed": 1081805,
+		"internal_node_id": "0.0-3.0-1.482"
+	},
+	{
+		"rt": 1069,
+		"stimulus": "../audio/71-5-fem.mp3",
+		"response": " ",
+		"word": "morango",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 578,
+		"time_elapsed": 1083217,
+		"internal_node_id": "0.0-3.0-1.483"
+	},
+	{
+		"rt": 1291,
+		"stimulus": "../audio/71-6-fem.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 579,
+		"time_elapsed": 1084836,
+		"internal_node_id": "0.0-3.0-1.484"
+	},
+	{
+		"rt": 2160,
+		"stimulus": "../audio/71-7-fem.mp3",
+		"response": " ",
+		"word": "uva.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 580,
+		"time_elapsed": 1087338,
+		"internal_node_id": "0.0-3.0-1.485"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 581,
+		"time_elapsed": 1088595,
+		"internal_node_id": "0.0-3.0-0.486-0.486"
+	},
+	{
+		"rt": 891,
+		"stimulus": "../audio/73-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 582,
+		"time_elapsed": 1089851,
+		"internal_node_id": "0.0-3.0-1.486"
+	},
+	{
+		"rt": 1120,
+		"stimulus": "../audio/73-2-masc.mp3",
+		"response": " ",
+		"word": "cliente",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 583,
+		"time_elapsed": 1091307,
+		"internal_node_id": "0.0-3.0-1.487"
+	},
+	{
+		"rt": 1019,
+		"stimulus": "../audio/73-3-masc.mp3",
+		"response": " ",
+		"word": "era",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 584,
+		"time_elapsed": 1092663,
+		"internal_node_id": "0.0-3.0-1.488"
+	},
+	{
+		"rt": 819,
+		"stimulus": "../audio/73-4-masc.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 585,
+		"time_elapsed": 1093786,
+		"internal_node_id": "0.0-3.0-1.489"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/73-5-masc.mp3",
+		"response": " ",
+		"word": "homem",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 586,
+		"time_elapsed": 1095028,
+		"internal_node_id": "0.0-3.0-1.490"
+	},
+	{
+		"rt": 949,
+		"stimulus": "../audio/73-6-masc.mp3",
+		"response": " ",
+		"word": "muito",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 587,
+		"time_elapsed": 1096311,
+		"internal_node_id": "0.0-3.0-1.491"
+	},
+	{
+		"rt": 3389,
+		"stimulus": "../audio/73-7-masc.mp3",
+		"response": " ",
+		"word": "educado.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 588,
+		"time_elapsed": 1100039,
+		"internal_node_id": "0.0-3.0-1.492"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 589,
+		"time_elapsed": 1101305,
+		"internal_node_id": "0.0-3.0-0.493-0.493"
+	},
+	{
+		"rt": 259,
+		"stimulus": "../audio/75-1-fem.mp3",
+		"response": " ",
+		"word": "Só",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 590,
+		"time_elapsed": 1101942,
+		"internal_node_id": "0.0-3.0-1.493"
+	},
+	{
+		"rt": 1299,
+		"stimulus": "../audio/75-2-fem.mp3",
+		"response": " ",
+		"word": "existe",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 591,
+		"time_elapsed": 1103594,
+		"internal_node_id": "0.0-3.0-1.494"
+	},
+	{
+		"rt": 1040,
+		"stimulus": "../audio/75-3-fem.mp3",
+		"response": " ",
+		"word": "uma",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 592,
+		"time_elapsed": 1104966,
+		"internal_node_id": "0.0-3.0-1.495"
+	},
+	{
+		"rt": 1211,
+		"stimulus": "../audio/75-4-fem.mp3",
+		"response": " ",
+		"word": "pessoa",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 593,
+		"time_elapsed": 1106514,
+		"internal_node_id": "0.0-3.0-1.496"
+	},
+	{
+		"rt": 1139,
+		"stimulus": "../audio/75-5-fem.mp3",
+		"response": " ",
+		"word": "canhota",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 594,
+		"time_elapsed": 1107994,
+		"internal_node_id": "0.0-3.0-1.497"
+	},
+	{
+		"rt": 909,
+		"stimulus": "../audio/75-6-fem.mp3",
+		"response": " ",
+		"word": "nesta",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 595,
+		"time_elapsed": 1109225,
+		"internal_node_id": "0.0-3.0-1.498"
+	},
+	{
+		"rt": 3309,
+		"stimulus": "../audio/75-7-fem.mp3",
+		"response": " ",
+		"word": "cidade.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 596,
+		"time_elapsed": 1112871,
+		"internal_node_id": "0.0-3.0-1.499"
+	},
+	{
+		"rt": 9688,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">Só existe uma pessoa canhota na cidade?</span>",
+		"response": "n",
+		"question": "Só existe uma pessoa canhota na cidade?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 597,
+		"time_elapsed": 1122823,
+		"internal_node_id": "0.0-3.0-2.499-0.499",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 598,
+		"time_elapsed": 1124354,
+		"internal_node_id": "0.0-3.0-0.500-0.500"
+	},
+	{
+		"rt": 1779,
+		"stimulus": "../audio/67-1-fem.mp3",
+		"response": " ",
+		"word": "Minha",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 599,
+		"time_elapsed": 1126504,
+		"internal_node_id": "0.0-3.0-1.500"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/67-2-fem.mp3",
+		"response": " ",
+		"word": "tia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 600,
+		"time_elapsed": 1127976,
+		"internal_node_id": "0.0-3.0-1.501"
+	},
+	{
+		"rt": 1251,
+		"stimulus": "../audio/67-3-fem.mp3",
+		"response": " ",
+		"word": "comprou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 601,
+		"time_elapsed": 1129567,
+		"internal_node_id": "0.0-3.0-1.502"
+	},
+	{
+		"rt": 1320,
+		"stimulus": "../audio/67-4-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 602,
+		"time_elapsed": 1131212,
+		"internal_node_id": "0.0-3.0-1.503"
+	},
+	{
+		"rt": 1221,
+		"stimulus": "../audio/67-5-fem.mp3",
+		"response": " ",
+		"word": "cordão",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 603,
+		"time_elapsed": 1132772,
+		"internal_node_id": "0.0-3.0-1.504"
+	},
+	{
+		"rt": 899,
+		"stimulus": "../audio/67-6-fem.mp3",
+		"response": " ",
+		"word": "para",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 604,
+		"time_elapsed": 1134021,
+		"internal_node_id": "0.0-3.0-1.505"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/67-7-fem.mp3",
+		"response": " ",
+		"word": "o",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 605,
+		"time_elapsed": 1135268,
+		"internal_node_id": "0.0-3.0-1.506"
+	},
+	{
+		"rt": 1171,
+		"stimulus": "../audio/67-8-fem.mp3",
+		"response": " ",
+		"word": "varal.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 606,
+		"time_elapsed": 1136767,
+		"internal_node_id": "0.0-3.0-1.507"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 607,
+		"time_elapsed": 1138028,
+		"internal_node_id": "0.0-3.0-0.508-0.508"
+	},
+	{
+		"rt": 901,
+		"stimulus": "../audio/69-1-fem.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 608,
+		"time_elapsed": 1139280,
+		"internal_node_id": "0.0-3.0-1.508"
+	},
+	{
+		"rt": 1061,
+		"stimulus": "../audio/69-2-fem.mp3",
+		"response": " ",
+		"word": "loja",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 609,
+		"time_elapsed": 1140676,
+		"internal_node_id": "0.0-3.0-1.509"
+	},
+	{
+		"rt": 1171,
+		"stimulus": "../audio/69-3-fem.mp3",
+		"response": " ",
+		"word": "recebeu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 610,
+		"time_elapsed": 1142199,
+		"internal_node_id": "0.0-3.0-1.510"
+	},
+	{
+		"rt": 840,
+		"stimulus": "../audio/69-4-fem.mp3",
+		"response": " ",
+		"word": "uma",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 611,
+		"time_elapsed": 1143360,
+		"internal_node_id": "0.0-3.0-1.511"
+	},
+	{
+		"rt": 1091,
+		"stimulus": "../audio/69-5-fem.mp3",
+		"response": " ",
+		"word": "poltrona",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 612,
+		"time_elapsed": 1144797,
+		"internal_node_id": "0.0-3.0-1.512"
+	},
+	{
+		"rt": 939,
+		"stimulus": "../audio/69-6-fem.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 613,
+		"time_elapsed": 1146057,
+		"internal_node_id": "0.0-3.0-1.513"
+	},
+	{
+		"rt": 1000,
+		"stimulus": "../audio/69-7-fem.mp3",
+		"response": " ",
+		"word": "couro",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 614,
+		"time_elapsed": 1147393,
+		"internal_node_id": "0.0-3.0-1.514"
+	},
+	{
+		"rt": 1011,
+		"stimulus": "../audio/69-8-fem.mp3",
+		"response": " ",
+		"word": "preto.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 615,
+		"time_elapsed": 1148729,
+		"internal_node_id": "0.0-3.0-1.515"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 616,
+		"time_elapsed": 1150006,
+		"internal_node_id": "0.0-3.0-0.516-0.516"
+	},
+	{
+		"rt": 912,
+		"stimulus": "../audio/68-1-fem.mp3",
+		"response": " ",
+		"word": "Meu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 617,
+		"time_elapsed": 1151292,
+		"internal_node_id": "0.0-3.0-1.516"
+	},
+	{
+		"rt": 1051,
+		"stimulus": "../audio/68-2-fem.mp3",
+		"response": " ",
+		"word": "irmão",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 618,
+		"time_elapsed": 1152677,
+		"internal_node_id": "0.0-3.0-1.517"
+	},
+	{
+		"rt": 901,
+		"stimulus": "../audio/68-3-fem.mp3",
+		"response": " ",
+		"word": "teve",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 619,
+		"time_elapsed": 1153917,
+		"internal_node_id": "0.0-3.0-1.518"
+	},
+	{
+		"rt": 979,
+		"stimulus": "../audio/68-4-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 620,
+		"time_elapsed": 1155228,
+		"internal_node_id": "0.0-3.0-1.519"
+	},
+	{
+		"rt": 1059,
+		"stimulus": "../audio/68-5-fem.mp3",
+		"response": " ",
+		"word": "noivado",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 621,
+		"time_elapsed": 1156627,
+		"internal_node_id": "0.0-3.0-1.520"
+	},
+	{
+		"rt": 1019,
+		"stimulus": "../audio/68-6-fem.mp3",
+		"response": " ",
+		"word": "longo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 622,
+		"time_elapsed": 1157991,
+		"internal_node_id": "0.0-3.0-1.521"
+	},
+	{
+		"rt": 1099,
+		"stimulus": "../audio/68-7-fem.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 623,
+		"time_elapsed": 1159419,
+		"internal_node_id": "0.0-3.0-1.522"
+	},
+	{
+		"rt": 2120,
+		"stimulus": "../audio/68-8-fem.mp3",
+		"response": " ",
+		"word": "maravilhoso.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 624,
+		"time_elapsed": 1161892,
+		"internal_node_id": "0.0-3.0-1.523"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 625,
+		"time_elapsed": 1163163,
+		"internal_node_id": "0.0-3.0-0.524-0.524"
+	},
+	{
+		"rt": 1280,
+		"stimulus": "../audio/66-1-fem.mp3",
+		"response": " ",
+		"word": "Não",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 626,
+		"time_elapsed": 1164842,
+		"internal_node_id": "0.0-3.0-1.524"
+	},
+	{
+		"rt": 1059,
+		"stimulus": "../audio/66-2-fem.mp3",
+		"response": " ",
+		"word": "gosto",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 627,
+		"time_elapsed": 1166230,
+		"internal_node_id": "0.0-3.0-1.525"
+	},
+	{
+		"rt": 800,
+		"stimulus": "../audio/66-3-fem.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 628,
+		"time_elapsed": 1167360,
+		"internal_node_id": "0.0-3.0-1.526"
+	},
+	{
+		"rt": 1272,
+		"stimulus": "../audio/66-4-fem.mp3",
+		"response": " ",
+		"word": "gente",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 629,
+		"time_elapsed": 1168969,
+		"internal_node_id": "0.0-3.0-1.527"
+	},
+	{
+		"rt": 1549,
+		"stimulus": "../audio/66-5-fem.mp3",
+		"response": " ",
+		"word": "egoísta",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 630,
+		"time_elapsed": 1170862,
+		"internal_node_id": "0.0-3.0-1.528"
+	},
+	{
+		"rt": 1080,
+		"stimulus": "../audio/66-6-fem.mp3",
+		"response": " ",
+		"word": "nem",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 631,
+		"time_elapsed": 1172277,
+		"internal_node_id": "0.0-3.0-1.529"
+	},
+	{
+		"rt": 3520,
+		"stimulus": "../audio/66-7-fem.mp3",
+		"response": " ",
+		"word": "chata.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 632,
+		"time_elapsed": 1176134,
+		"internal_node_id": "0.0-3.0-1.530"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 633,
+		"time_elapsed": 1177423,
+		"internal_node_id": "0.0-3.0-0.531-0.531"
+	},
+	{
+		"rt": 1091,
+		"stimulus": "../audio/70-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 634,
+		"time_elapsed": 1178917,
+		"internal_node_id": "0.0-3.0-1.531"
+	},
+	{
+		"rt": 1179,
+		"stimulus": "../audio/70-2-masc.mp3",
+		"response": " ",
+		"word": "meu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 635,
+		"time_elapsed": 1180417,
+		"internal_node_id": "0.0-3.0-1.532"
+	},
+	{
+		"rt": 899,
+		"stimulus": "../audio/70-3-masc.mp3",
+		"response": " ",
+		"word": "filho",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 636,
+		"time_elapsed": 1181657,
+		"internal_node_id": "0.0-3.0-1.533"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/70-4-masc.mp3",
+		"response": " ",
+		"word": "tem",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 637,
+		"time_elapsed": 1182915,
+		"internal_node_id": "0.0-3.0-1.534"
+	},
+	{
+		"rt": 1029,
+		"stimulus": "../audio/70-5-masc.mp3",
+		"response": " ",
+		"word": "medo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 638,
+		"time_elapsed": 1184271,
+		"internal_node_id": "0.0-3.0-1.535"
+	},
+	{
+		"rt": 829,
+		"stimulus": "../audio/70-6-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 639,
+		"time_elapsed": 1185430,
+		"internal_node_id": "0.0-3.0-1.536"
+	},
+	{
+		"rt": 1520,
+		"stimulus": "../audio/70-7-masc.mp3",
+		"response": " ",
+		"word": "enguia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 640,
+		"time_elapsed": 1187285,
+		"internal_node_id": "0.0-3.0-1.537"
+	},
+	{
+		"rt": 989,
+		"stimulus": "../audio/70-8-masc.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 641,
+		"time_elapsed": 1188597,
+		"internal_node_id": "0.0-3.0-1.538"
+	},
+	{
+		"rt": 4021,
+		"stimulus": "../audio/70-9-masc.mp3",
+		"response": " ",
+		"word": "beija-flor.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 642,
+		"time_elapsed": 1192972,
+		"internal_node_id": "0.0-3.0-1.539"
+	},
+	{
+		"rt": 7938,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">O filho tem medo de tigre?</span>",
+		"response": "n",
+		"question": "O filho tem medo de tigre?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 643,
+		"time_elapsed": 1201172,
+		"internal_node_id": "0.0-3.0-2.539-0.539",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 644,
+		"time_elapsed": 1202684,
+		"internal_node_id": "0.0-3.0-0.540-0.540"
+	},
+	{
+		"rt": 768,
+		"stimulus": "../audio/77-1-masc.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 645,
+		"time_elapsed": 1203825,
+		"internal_node_id": "0.0-3.0-1.540"
+	},
+	{
+		"rt": 1048,
+		"stimulus": "../audio/77-2-masc.mp3",
+		"response": " ",
+		"word": "criança",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 646,
+		"time_elapsed": 1205218,
+		"internal_node_id": "0.0-3.0-1.541"
+	},
+	{
+		"rt": 1091,
+		"stimulus": "../audio/77-3-masc.mp3",
+		"response": " ",
+		"word": "ficou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 647,
+		"time_elapsed": 1206642,
+		"internal_node_id": "0.0-3.0-1.542"
+	},
+	{
+		"rt": 1019,
+		"stimulus": "../audio/77-4-masc.mp3",
+		"response": " ",
+		"word": "muito",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 648,
+		"time_elapsed": 1208025,
+		"internal_node_id": "0.0-3.0-1.543"
+	},
+	{
+		"rt": 949,
+		"stimulus": "../audio/77-5-masc.mp3",
+		"response": " ",
+		"word": "feliz",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 649,
+		"time_elapsed": 1209309,
+		"internal_node_id": "0.0-3.0-1.544"
+	},
+	{
+		"rt": 909,
+		"stimulus": "../audio/77-6-masc.mp3",
+		"response": " ",
+		"word": "com",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 650,
+		"time_elapsed": 1210537,
+		"internal_node_id": "0.0-3.0-1.545"
+	},
+	{
+		"rt": 901,
+		"stimulus": "../audio/77-7-masc.mp3",
+		"response": " ",
+		"word": "o",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 651,
+		"time_elapsed": 1211756,
+		"internal_node_id": "0.0-3.0-1.546"
+	},
+	{
+		"rt": 2851,
+		"stimulus": "../audio/77-8-masc.mp3",
+		"response": " ",
+		"word": "brinquedo.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 652,
+		"time_elapsed": 1214954,
+		"internal_node_id": "0.0-3.0-1.547"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 653,
+		"time_elapsed": 1216238,
+		"internal_node_id": "0.0-3.0-0.548-0.548"
+	},
+	{
+		"rt": 1288,
+		"stimulus": "../audio/78-1-masc.mp3",
+		"response": " ",
+		"word": "Eles",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 654,
+		"time_elapsed": 1217899,
+		"internal_node_id": "0.0-3.0-1.548"
+	},
+	{
+		"rt": 1032,
+		"stimulus": "../audio/78-2-masc.mp3",
+		"response": " ",
+		"word": "trazem",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 655,
+		"time_elapsed": 1219252,
+		"internal_node_id": "0.0-3.0-1.549"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/78-3-masc.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 656,
+		"time_elapsed": 1220547,
+		"internal_node_id": "0.0-3.0-1.550"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/78-4-masc.mp3",
+		"response": " ",
+		"word": "fato",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 657,
+		"time_elapsed": 1221838,
+		"internal_node_id": "0.0-3.0-1.551"
+	},
+	{
+		"rt": 1059,
+		"stimulus": "../audio/78-5-masc.mp3",
+		"response": " ",
+		"word": "urgente",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 658,
+		"time_elapsed": 1223226,
+		"internal_node_id": "0.0-3.0-1.552"
+	},
+	{
+		"rt": 1008,
+		"stimulus": "../audio/78-6-masc.mp3",
+		"response": " ",
+		"word": "todos",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 659,
+		"time_elapsed": 1224578,
+		"internal_node_id": "0.0-3.0-1.553"
+	},
+	{
+		"rt": 891,
+		"stimulus": "../audio/78-7-masc.mp3",
+		"response": " ",
+		"word": "os",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 660,
+		"time_elapsed": 1225800,
+		"internal_node_id": "0.0-3.0-1.554"
+	},
+	{
+		"rt": 1960,
+		"stimulus": "../audio/78-8-masc.mp3",
+		"response": " ",
+		"word": "dias.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 661,
+		"time_elapsed": 1228095,
+		"internal_node_id": "0.0-3.0-1.555"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 662,
+		"time_elapsed": 1229364,
+		"internal_node_id": "0.0-3.0-0.556-0.556"
+	},
+	{
+		"rt": 1200,
+		"stimulus": "../audio/79-1-fem.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 663,
+		"time_elapsed": 1230943,
+		"internal_node_id": "0.0-3.0-1.556"
+	},
+	{
+		"rt": 1069,
+		"stimulus": "../audio/79-2-fem.mp3",
+		"response": " ",
+		"word": "médica",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 664,
+		"time_elapsed": 1232343,
+		"internal_node_id": "0.0-3.0-1.557"
+	},
+	{
+		"rt": 1451,
+		"stimulus": "../audio/79-3-fem.mp3",
+		"response": " ",
+		"word": "verificou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 665,
+		"time_elapsed": 1234132,
+		"internal_node_id": "0.0-3.0-1.558"
+	},
+	{
+		"rt": 952,
+		"stimulus": "../audio/79-4-fem.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 666,
+		"time_elapsed": 1235408,
+		"internal_node_id": "0.0-3.0-1.559"
+	},
+	{
+		"rt": 1549,
+		"stimulus": "../audio/79-5-fem.mp3",
+		"response": " ",
+		"word": "gengiva",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 667,
+		"time_elapsed": 1237311,
+		"internal_node_id": "0.0-3.0-1.560"
+	},
+	{
+		"rt": 1051,
+		"stimulus": "../audio/79-6-fem.mp3",
+		"response": " ",
+		"word": "por",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 668,
+		"time_elapsed": 1238683,
+		"internal_node_id": "0.0-3.0-1.561"
+	},
+	{
+		"rt": 2181,
+		"stimulus": "../audio/79-7-fem.mp3",
+		"response": " ",
+		"word": "último.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 669,
+		"time_elapsed": 1241196,
+		"internal_node_id": "0.0-3.0-1.562"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 670,
+		"time_elapsed": 1242475,
+		"internal_node_id": "0.0-3.0-0.563-0.563"
+	},
+	{
+		"rt": 1131,
+		"stimulus": "../audio/76-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 671,
+		"time_elapsed": 1243988,
+		"internal_node_id": "0.0-3.0-1.563"
+	},
+	{
+		"rt": 1539,
+		"stimulus": "../audio/76-2-fem.mp3",
+		"response": " ",
+		"word": "bisavô",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 672,
+		"time_elapsed": 1245867,
+		"internal_node_id": "0.0-3.0-1.564"
+	},
+	{
+		"rt": 1251,
+		"stimulus": "../audio/76-3-fem.mp3",
+		"response": " ",
+		"word": "comprou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 673,
+		"time_elapsed": 1247452,
+		"internal_node_id": "0.0-3.0-1.565"
+	},
+	{
+		"rt": 952,
+		"stimulus": "../audio/76-4-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 674,
+		"time_elapsed": 1248736,
+		"internal_node_id": "0.0-3.0-1.566"
+	},
+	{
+		"rt": 1448,
+		"stimulus": "../audio/76-5-fem.mp3",
+		"response": " ",
+		"word": "ralador",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 675,
+		"time_elapsed": 1250546,
+		"internal_node_id": "0.0-3.0-1.567"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/76-6-fem.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 676,
+		"time_elapsed": 1251833,
+		"internal_node_id": "0.0-3.0-1.568"
+	},
+	{
+		"rt": 1819,
+		"stimulus": "../audio/76-7-fem.mp3",
+		"response": " ",
+		"word": "queijo.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 677,
+		"time_elapsed": 1253982,
+		"internal_node_id": "0.0-3.0-1.569"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 678,
+		"time_elapsed": 1255254,
+		"internal_node_id": "0.0-3.0-0.570-0.570"
+	},
+	{
+		"rt": 1072,
+		"stimulus": "../audio/80-1-fem.mp3",
+		"response": " ",
+		"word": "Meu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 679,
+		"time_elapsed": 1256691,
+		"internal_node_id": "0.0-3.0-1.570"
+	},
+	{
+		"rt": 1061,
+		"stimulus": "../audio/80-2-fem.mp3",
+		"response": " ",
+		"word": "primo",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 680,
+		"time_elapsed": 1258079,
+		"internal_node_id": "0.0-3.0-1.571"
+	},
+	{
+		"rt": 1309,
+		"stimulus": "../audio/80-3-fem.mp3",
+		"response": " ",
+		"word": "conheceu",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 681,
+		"time_elapsed": 1259735,
+		"internal_node_id": "0.0-3.0-1.572"
+	},
+	{
+		"rt": 1032,
+		"stimulus": "../audio/80-4-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 682,
+		"time_elapsed": 1261094,
+		"internal_node_id": "0.0-3.0-1.573"
+	},
+	{
+		"rt": 1400,
+		"stimulus": "../audio/80-5-fem.mp3",
+		"response": " ",
+		"word": "jovem",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 683,
+		"time_elapsed": 1262855,
+		"internal_node_id": "0.0-3.0-1.574"
+	},
+	{
+		"rt": 1440,
+		"stimulus": "../audio/80-6-fem.mp3",
+		"response": " ",
+		"word": "amável",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 684,
+		"time_elapsed": 1264640,
+		"internal_node_id": "0.0-3.0-1.575"
+	},
+	{
+		"rt": 1099,
+		"stimulus": "../audio/80-7-fem.mp3",
+		"response": " ",
+		"word": "e",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 685,
+		"time_elapsed": 1266076,
+		"internal_node_id": "0.0-3.0-1.576"
+	},
+	{
+		"rt": 4549,
+		"stimulus": "../audio/80-8-fem.mp3",
+		"response": " ",
+		"word": "confiante.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 686,
+		"time_elapsed": 1270977,
+		"internal_node_id": "0.0-3.0-1.577"
+	},
+	{
+		"rt": 4095,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">O primo conheceu um jovem irritante?</span>",
+		"response": "n",
+		"question": "O primo conheceu um jovem irritante?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 687,
+		"time_elapsed": 1275326,
+		"internal_node_id": "0.0-3.0-2.577-0.577",
+		"accuracy": false
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 688,
+		"time_elapsed": 1276843,
+		"internal_node_id": "0.0-3.0-0.578-0.578"
+	},
+	{
+		"rt": 1701,
+		"stimulus": "../audio/04-1-fem.mp3",
+		"response": " ",
+		"word": "Duzentos",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 689,
+		"time_elapsed": 1278917,
+		"internal_node_id": "0.0-3.0-1.578"
+	},
+	{
+		"rt": 1029,
+		"stimulus": "../audio/04-2-fem.mp3",
+		"response": " ",
+		"word": "carros",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 690,
+		"time_elapsed": 1280321,
+		"internal_node_id": "0.0-3.0-1.579"
+	},
+	{
+		"rt": 1320,
+		"stimulus": "../audio/04-3-fem.mp3",
+		"response": " ",
+		"word": "passaram",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 691,
+		"time_elapsed": 1281983,
+		"internal_node_id": "0.0-3.0-1.580"
+	},
+	{
+		"rt": 1021,
+		"stimulus": "../audio/04-4-fem.mp3",
+		"response": " ",
+		"word": "pela",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 692,
+		"time_elapsed": 1283329,
+		"internal_node_id": "0.0-3.0-1.581"
+	},
+	{
+		"rt": 1021,
+		"stimulus": "../audio/04-5-fem.mp3",
+		"response": " ",
+		"word": "ponte",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 693,
+		"time_elapsed": 1284682,
+		"internal_node_id": "0.0-3.0-1.582"
+	},
+	{
+		"rt": 1021,
+		"stimulus": "../audio/04-6-fem.mp3",
+		"response": " ",
+		"word": "hoje",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 694,
+		"time_elapsed": 1286040,
+		"internal_node_id": "0.0-3.0-1.583"
+	},
+	{
+		"rt": 869,
+		"stimulus": "../audio/04-7-fem.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 695,
+		"time_elapsed": 1287243,
+		"internal_node_id": "0.0-3.0-1.584"
+	},
+	{
+		"rt": 2539,
+		"stimulus": "../audio/04-8-fem.mp3",
+		"response": " ",
+		"word": "tarde.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 696,
+		"time_elapsed": 1290111,
+		"internal_node_id": "0.0-3.0-1.585"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 697,
+		"time_elapsed": 1291371,
+		"internal_node_id": "0.0-3.0-0.586-0.586"
+	},
+	{
+		"rt": 789,
+		"stimulus": "../audio/03-1-masc.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 698,
+		"time_elapsed": 1292522,
+		"internal_node_id": "0.0-3.0-1.586"
+	},
+	{
+		"rt": 1189,
+		"stimulus": "../audio/03-2-masc.mp3",
+		"response": " ",
+		"word": "coelho",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 699,
+		"time_elapsed": 1294037,
+		"internal_node_id": "0.0-3.0-1.587"
+	},
+	{
+		"rt": 971,
+		"stimulus": "../audio/03-3-masc.mp3",
+		"response": " ",
+		"word": "foi",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 700,
+		"time_elapsed": 1295362,
+		"internal_node_id": "0.0-3.0-1.588"
+	},
+	{
+		"rt": 1312,
+		"stimulus": "../audio/03-4-masc.mp3",
+		"response": " ",
+		"word": "bastante",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 701,
+		"time_elapsed": 1297012,
+		"internal_node_id": "0.0-3.0-1.589"
+	},
+	{
+		"rt": 1821,
+		"stimulus": "../audio/03-5-masc.mp3",
+		"response": " ",
+		"word": "dócil",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 702,
+		"time_elapsed": 1299168,
+		"internal_node_id": "0.0-3.0-1.590"
+	},
+	{
+		"rt": 960,
+		"stimulus": "../audio/03-6-masc.mp3",
+		"response": " ",
+		"word": "com",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 703,
+		"time_elapsed": 1300476,
+		"internal_node_id": "0.0-3.0-1.591"
+	},
+	{
+		"rt": 971,
+		"stimulus": "../audio/03-7-masc.mp3",
+		"response": " ",
+		"word": "as",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 704,
+		"time_elapsed": 1301776,
+		"internal_node_id": "0.0-3.0-1.592"
+	},
+	{
+		"rt": 1851,
+		"stimulus": "../audio/03-8-masc.mp3",
+		"response": " ",
+		"word": "crianças.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 705,
+		"time_elapsed": 1303967,
+		"internal_node_id": "0.0-3.0-1.593"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 706,
+		"time_elapsed": 1305232,
+		"internal_node_id": "0.0-3.0-0.594-0.594"
+	},
+	{
+		"rt": 1120,
+		"stimulus": "../audio/01-1-fem.mp3",
+		"response": " ",
+		"word": "O",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 707,
+		"time_elapsed": 1306717,
+		"internal_node_id": "0.0-3.0-1.594"
+	},
+	{
+		"rt": 1392,
+		"stimulus": "../audio/01-2-fem.mp3",
+		"response": " ",
+		"word": "menino",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 708,
+		"time_elapsed": 1308454,
+		"internal_node_id": "0.0-3.0-1.595"
+	},
+	{
+		"rt": 1352,
+		"stimulus": "../audio/01-3-fem.mp3",
+		"response": " ",
+		"word": "derrubou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 709,
+		"time_elapsed": 1310133,
+		"internal_node_id": "0.0-3.0-1.596"
+	},
+	{
+		"rt": 920,
+		"stimulus": "../audio/01-4-fem.mp3",
+		"response": " ",
+		"word": "a",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 710,
+		"time_elapsed": 1311380,
+		"internal_node_id": "0.0-3.0-1.597"
+	},
+	{
+		"rt": 1280,
+		"stimulus": "../audio/01-5-fem.mp3",
+		"response": " ",
+		"word": "guitarra",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 711,
+		"time_elapsed": 1313010,
+		"internal_node_id": "0.0-3.0-1.598"
+	},
+	{
+		"rt": 1101,
+		"stimulus": "../audio/01-6-fem.mp3",
+		"response": " ",
+		"word": "no",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 712,
+		"time_elapsed": 1314438,
+		"internal_node_id": "0.0-3.0-1.599"
+	},
+	{
+		"rt": 1960,
+		"stimulus": "../audio/01-7-fem.mp3",
+		"response": " ",
+		"word": "chão.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 713,
+		"time_elapsed": 1316736,
+		"internal_node_id": "0.0-3.0-1.600"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 714,
+		"time_elapsed": 1318009,
+		"internal_node_id": "0.0-3.0-0.601-0.601"
+	},
+	{
+		"rt": 1000,
+		"stimulus": "../audio/02-2-masc.mp3",
+		"response": " ",
+		"word": "Havia",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 715,
+		"time_elapsed": 1319378,
+		"internal_node_id": "0.0-3.0-1.601"
+	},
+	{
+		"rt": 1141,
+		"stimulus": "../audio/02-2-masc.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 716,
+		"time_elapsed": 1320769,
+		"internal_node_id": "0.0-3.0-1.602"
+	},
+	{
+		"rt": 1312,
+		"stimulus": "../audio/02-3-masc.mp3",
+		"response": " ",
+		"word": "cheiro",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 717,
+		"time_elapsed": 1322447,
+		"internal_node_id": "0.0-3.0-1.603"
+	},
+	{
+		"rt": 931,
+		"stimulus": "../audio/02-4-masc.mp3",
+		"response": " ",
+		"word": "de",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 718,
+		"time_elapsed": 1323716,
+		"internal_node_id": "0.0-3.0-1.604"
+	},
+	{
+		"rt": 1181,
+		"stimulus": "../audio/02-5-masc.mp3",
+		"response": " ",
+		"word": "gasolina",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 719,
+		"time_elapsed": 1325245,
+		"internal_node_id": "0.0-3.0-1.605"
+	},
+	{
+		"rt": 971,
+		"stimulus": "../audio/02-6-masc.mp3",
+		"response": " ",
+		"word": "na",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 720,
+		"time_elapsed": 1326561,
+		"internal_node_id": "0.0-3.0-1.606"
+	},
+	{
+		"rt": 2981,
+		"stimulus": "../audio/02-7-masc.mp3",
+		"response": " ",
+		"word": "garagem.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 721,
+		"time_elapsed": 1329881,
+		"internal_node_id": "0.0-3.0-1.607"
+	},
+	{
+		"rt": null,
+		"stimulus": "<span style= \"font-size:30px; font-family: monospace\">+</span>",
+		"response": null,
+		"trial_part": "fixation",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 722,
+		"time_elapsed": 1331136,
+		"internal_node_id": "0.0-3.0-0.608-0.608"
+	},
+	{
+		"rt": 949,
+		"stimulus": "../audio/05-1-fem.mp3",
+		"response": " ",
+		"word": "A",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 723,
+		"time_elapsed": 1332460,
+		"internal_node_id": "0.0-3.0-1.608"
+	},
+	{
+		"rt": 1448,
+		"stimulus": "../audio/05-2-fem.mp3",
+		"response": " ",
+		"word": "vendedora",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 724,
+		"time_elapsed": 1334266,
+		"internal_node_id": "0.0-3.0-1.609"
+	},
+	{
+		"rt": 1400,
+		"stimulus": "../audio/05-3-fem.mp3",
+		"response": " ",
+		"word": "ajudou",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 725,
+		"time_elapsed": 1336006,
+		"internal_node_id": "0.0-3.0-1.610"
+	},
+	{
+		"rt": 1179,
+		"stimulus": "../audio/05-4-fem.mp3",
+		"response": " ",
+		"word": "um",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 726,
+		"time_elapsed": 1337514,
+		"internal_node_id": "0.0-3.0-1.611"
+	},
+	{
+		"rt": 1491,
+		"stimulus": "../audio/05-5-fem.mp3",
+		"response": " ",
+		"word": "turista",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 727,
+		"time_elapsed": 1339363,
+		"internal_node_id": "0.0-3.0-1.612"
+	},
+	{
+		"rt": 1200,
+		"stimulus": "../audio/05-6-fem.mp3",
+		"response": " ",
+		"word": "na",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 728,
+		"time_elapsed": 1340906,
+		"internal_node_id": "0.0-3.0-1.613"
+	},
+	{
+		"rt": 2709,
+		"stimulus": "../audio/05-7-fem.mp3",
+		"response": " ",
+		"word": "loja.",
+		"trial_type": "audio-keyboard-response",
+		"trial_index": 729,
+		"time_elapsed": 1343946,
+		"internal_node_id": "0.0-3.0-1.614"
+	},
+	{
+		"rt": 2968,
+		"stimulus": "<span style=\"font-size:25px; font-family: monospace\">A vendedora ajudou um turista?</span>",
+		"response": "s",
+		"question": "A vendedora ajudou um turista?",
+		"answer": "null",
+		"trial": "exp-sent",
+		"trial_type": "html-keyboard-response",
+		"trial_index": 730,
+		"time_elapsed": 1347181,
+		"internal_node_id": "0.0-3.0-2.614-0.614",
+		"accuracy": false
+	},
+	{
+		"view_history": [
+			{
+				"page_index": 0,
+				"viewing_time": 9707
+			}
+		],
+		"rt": 9707,
+		"trial_type": "instructions",
+		"trial_index": 731,
+		"time_elapsed": 1357392,
+		"internal_node_id": "0.0-4.0"
+	}
+]

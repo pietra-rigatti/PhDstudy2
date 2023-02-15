@@ -1,0 +1,38 @@
+[
+	{
+		"view_history": [
+			{
+				"page_index": 0,
+				"viewing_time": 45520
+			}
+		],
+		"rt": 45521,
+		"trial_type": "instructions",
+		"trial_index": 0,
+		"time_elapsed": 45523,
+		"internal_node_id": "0.0-0.0"
+	},
+	{
+		"rt": 371380,
+		"response": {
+			"tcle": "Concordo voluntariamente em participar da pesquisa conforme texto acima."
+		},
+		"question_order": [
+			0
+		],
+		"trial_type": "survey-multi-choice",
+		"trial_index": 1,
+		"time_elapsed": 417096,
+		"internal_node_id": "0.0-1.0"
+	},
+	{
+		"rt": 42718,
+		"response": {
+			"email": "qiqmu"
+		},
+		"trial_type": "survey-text",
+		"trial_index": 2,
+		"time_elapsed": 460824,
+		"internal_node_id": "0.0-2.0"
+	}
+]

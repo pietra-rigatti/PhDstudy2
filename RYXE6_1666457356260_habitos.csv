@@ -1,0 +1,5 @@
+"view_history","rt","trial_type","trial_index","time_elapsed","internal_node_id","response","question_order"
+"[{""page_index"":0,""viewing_time"":1367}]","1367","instructions","0","1371","0.0-0.0","",""
+"","137902","survey-multi-choice","1","139388","0.0-1.0","{""reading_habits_printed_magazines"":""Nunca"",""reading_habits_printed_newspapers"":""Nunca"",""reading_habits_books"":""Uma vez por semana"",""reading_habits_printed_socialmedias"":""Todos os dias""}","[0,1,2,3]"
+"","36698","survey-multi-choice","2","176197","0.0-2.0","{""reading_habits_virtual_magazines"":""Todos os dias"",""reading_habits_virtual_newspapers"":""Uma vez por semana"",""reading_habits_books"":""Uma vez por semana"",""reading_habits_virtual_socialmedias"":""Todos os dias""}","[0,1,2,3]"
+"","42335","survey-text","3","218652","0.0-3.0","{""reading_habits_other_which"":""dicionário (virtual)"",""reading_habits_other_frequency"":""todos os dias""}",""

@@ -1,0 +1,5 @@
+"view_history","rt","trial_type","trial_index","time_elapsed","internal_node_id","response","question_order"
+"[{""page_index"":0,""viewing_time"":2867}]","2867","instructions","0","2868","0.0-0.0","",""
+"","265010","survey-multi-choice","1","267995","0.0-1.0","{""reading_habits_printed_magazines"":""Uma vez por semana"",""reading_habits_printed_newspapers"":""Raramente"",""reading_habits_books"":""Todos os dias"",""reading_habits_printed_socialmedias"":""Todos os dias""}","[0,1,2,3]"
+"","84143","survey-multi-choice","2","352242","0.0-2.0","{""reading_habits_virtual_magazines"":""Uma vez por semana"",""reading_habits_virtual_newspapers"":""Raramente"",""reading_habits_books"":""Alguns dias da semana"",""reading_habits_virtual_socialmedias"":""Todos os dias""}","[0,1,2,3]"
+"","69737","survey-text","3","422082","0.0-3.0","{""reading_habits_other_which"":""NAO"",""reading_habits_other_frequency"":""""}",""
